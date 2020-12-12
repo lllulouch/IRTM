@@ -1,0 +1,8 @@
+term tf
+enclosur 5
+proport 1
+wild 1
+centimet 1
+grown 1
+joint 2
+dog 1

@@ -1,0 +1,6 @@
+term tf
+wild 3
+goggl 2
+incurs 1
+agenc 2
+digest 1

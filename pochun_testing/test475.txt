@@ -1,0 +1,8 @@
+term tf
+televis 8
+brand 1
+analogu 1
+buri 1
+confin 1
+scaveng 1
+restrain 1

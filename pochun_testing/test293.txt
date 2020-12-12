@@ -1,0 +1,9 @@
+term tf
+wild 2
+livestock 1
+cost 1
+sensit 1
+saliva 1
+join 1
+spars 1
+journal 1

@@ -1,0 +1,10 @@
+term tf
+revis 1
+ocean 2
+feet 1
+attract 1
+absorb 4
+digest 1
+sole 1
+earlier 1
+gamma 1

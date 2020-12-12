@@ -1,0 +1,8 @@
+term tf
+sector 1
+centimet 5
+monthli 1
+earlier 1
+sir 7
+conceal 1
+restrain 1

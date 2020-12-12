@@ -1,0 +1,8 @@
+term tf
+reappear 1
+restor 1
+option 1
+somewher 1
+stole 1
+coupl 1
+peac 1

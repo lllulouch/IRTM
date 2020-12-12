@@ -1,0 +1,8 @@
+term tf
+fenc 2
+confin 3
+detector 2
+fragment 4
+incurs 1
+derelict 1
+ambulatori 1

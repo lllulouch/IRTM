@@ -1,0 +1,3 @@
+term tf
+televis 1
+charact 1

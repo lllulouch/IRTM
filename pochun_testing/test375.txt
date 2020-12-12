@@ -1,0 +1,3 @@
+term tf
+wild 1
+owner 1

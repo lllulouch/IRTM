@@ -1,0 +1,8 @@
+term tf
+chest 1
+restrain 4
+violenc 1
+prolong 1
+interrupt 1
+option 1
+sole 1

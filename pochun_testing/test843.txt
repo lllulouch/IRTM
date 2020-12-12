@@ -1,0 +1,5 @@
+term tf
+morgu 1
+dog 1
+poi 3
+worth 2

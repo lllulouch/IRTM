@@ -1,0 +1,16 @@
+term tf
+joint 1
+constel 3
+fashion 1
+ocean 1
+continent 1
+cosmic 1
+certainli 1
+dedic 1
+ran 1
+attract 1
+crew 1
+hierarchi 1
+accomplish 1
+cost 1
+charact 2

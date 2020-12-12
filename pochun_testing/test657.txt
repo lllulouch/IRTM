@@ -1,0 +1,12 @@
+term tf
+earlier 1
+acoust 1
+violenc 2
+depress 1
+bean 1
+laugh 4
+restrain 2
+caucasian 2
+brand 2
+disrupt 1
+rambl 1

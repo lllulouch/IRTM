@@ -1,0 +1,8 @@
+term tf
+indoor 2
+cloud 1
+owner 1
+unaffect 1
+dress 1
+centimet 1
+fragment 1

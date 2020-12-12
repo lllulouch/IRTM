@@ -1,0 +1,16 @@
+term tf
+raid 1
+wake 1
+welcom 2
+dog 2
+canadian 1
+instantan 1
+caviti 3
+peac 1
+forget 1
+digest 1
+centimet 2
+decibel 1
+fragment 1
+solidifi 1
+cool 1

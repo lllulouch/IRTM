@@ -1,0 +1,5 @@
+term tf
+violenc 1
+vision 1
+goggl 1
+fashion 1

@@ -1,0 +1,8 @@
+term tf
+sector 1
+temporari 1
+compound 2
+accomplish 1
+automat 1
+counter 1
+holder 1

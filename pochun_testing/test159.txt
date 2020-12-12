@@ -1,0 +1,4 @@
+term tf
+hive 2
+fashion 1
+forbidden 1

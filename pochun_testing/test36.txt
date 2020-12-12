@@ -1,0 +1,10 @@
+term tf
+fashion 2
+wild 4
+discret 1
+liais 1
+behav 1
+unaffect 1
+asia 1
+accomplish 1
+worth 1

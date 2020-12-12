@@ -1,0 +1,7 @@
+term tf
+revis 1
+print 1
+press 1
+passion 2
+certainli 1
+welcom 1

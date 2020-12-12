@@ -1,0 +1,5 @@
+term tf
+tumbl 4
+temporari 1
+databas 1
+gamma 1

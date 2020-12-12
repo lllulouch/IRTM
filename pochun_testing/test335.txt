@@ -1,0 +1,11 @@
+term tf
+tribal 1
+polar 7
+absorb 1
+fals 1
+paw 1
+nativ 1
+obliter 1
+charact 1
+certainli 1
+stole 1

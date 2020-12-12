@@ -1,0 +1,4 @@
+term tf
+worth 1
+violenc 1
+prohibit 1

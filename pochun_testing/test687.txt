@@ -1,0 +1,5 @@
+term tf
+deton 4
+unaffect 1
+dedic 1
+shell 1

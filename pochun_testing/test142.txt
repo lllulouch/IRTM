@@ -1,0 +1,9 @@
+term tf
+discret 1
+guis 1
+violenc 1
+sensit 1
+joint 1
+enrol 1
+databas 1
+elimin 1

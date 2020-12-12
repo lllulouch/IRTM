@@ -1,0 +1,13 @@
+term tf
+fals 1
+brand 1
+lawn 6
+road 2
+pave 1
+son 5
+poi 1
+guis 1
+boy 7
+accid 1
+join 2
+soul 1

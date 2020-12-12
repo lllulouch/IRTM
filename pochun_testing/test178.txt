@@ -1,0 +1,7 @@
+term tf
+centimet 1
+wild 1
+brown 1
+solidifi 2
+burrow 1
+caviti 1

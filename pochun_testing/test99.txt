@@ -1,0 +1,12 @@
+term tf
+phone 1
+twice 1
+societi 1
+grown 1
+sensit 1
+mid 1
+hierarchi 1
+wild 3
+violenc 1
+necrosi 1
+injur 1

@@ -1,0 +1,6 @@
+term tf
+webcrawl 7
+amnestic 1
+campaign 2
+databas 3
+hypothes 1

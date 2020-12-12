@@ -1,0 +1,11 @@
+term tf
+coupl 2
+son 6
+amnestic 1
+revis 1
+certif 1
+elimin 1
+forget 4
+boy 1
+worth 2
+accid 1

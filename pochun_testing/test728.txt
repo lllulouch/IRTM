@@ -1,0 +1,7 @@
+term tf
+sector 1
+etc 1
+plate 1
+behav 1
+centimet 1
+disrupt 1

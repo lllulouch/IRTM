@@ -1,0 +1,5 @@
+term tf
+auction 1
+gun 1
+ladder 1
+elimin 1

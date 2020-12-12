@@ -1,0 +1,7 @@
+term tf
+dog 3
+twice 1
+phase 4
+option 2
+fals 1
+interrupt 1

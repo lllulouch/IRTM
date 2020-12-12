@@ -1,0 +1,7 @@
+term tf
+refil 1
+replic 1
+overload 1
+caviti 1
+outbreak 1
+caught 1

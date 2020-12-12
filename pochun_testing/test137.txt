@@ -1,0 +1,8 @@
+term tf
+twice 2
+confin 1
+wild 1
+violenc 1
+widen 1
+mushroom 3
+asia 1

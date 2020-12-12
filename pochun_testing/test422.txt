@@ -1,0 +1,7 @@
+term tf
+phase 3
+caucasian 1
+mute 1
+wondertain 2
+dress 1
+brand 1

@@ -1,0 +1,8 @@
+term tf
+prohibit 1
+underway 1
+amic 1
+critic 1
+caught 1
+cost 1
+forget 1

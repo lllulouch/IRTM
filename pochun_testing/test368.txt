@@ -1,0 +1,7 @@
+term tf
+crew 5
+ostens 1
+martial 1
+unarm 1
+spoken 1
+leader 1

@@ -1,0 +1,6 @@
+term tf
+print 2
+hue 1
+alphabet 2
+decay 1
+poor 1

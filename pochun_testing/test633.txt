@@ -1,0 +1,9 @@
+term tf
+guis 1
+televis 3
+press 2
+forget 1
+laugh 1
+boy 1
+print 1
+welcom 1

@@ -1,0 +1,5 @@
+term tf
+plate 1
+shell 2
+brown 1
+twice 1

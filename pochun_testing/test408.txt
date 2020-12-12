@@ -1,0 +1,13 @@
+term tf
+gentli 1
+carapac 1
+sooth 1
+nativ 1
+centimet 1
+tan 1
+caustic 1
+burrow 1
+dog 2
+attract 2
+violenc 1
+absenc 1

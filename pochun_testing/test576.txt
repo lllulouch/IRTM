@@ -1,0 +1,12 @@
+term tf
+ornat 1
+scissor 2
+press 1
+fragment 9
+depress 1
+chill 1
+dress 2
+laugh 2
+grown 1
+admit 1
+coupl 1

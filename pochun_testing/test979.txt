@@ -1,0 +1,9 @@
+term tf
+forbidden 1
+strike 4
+owner 1
+fl 1
+caught 1
+anti 2
+coupl 1
+launch 1

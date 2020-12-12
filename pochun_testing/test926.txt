@@ -1,0 +1,12 @@
+term tf
+asteroid 3
+mine 1
+counter 1
+leak 1
+fragment 1
+crew 6
+launch 1
+automat 1
+usabl 1
+somewher 2
+induct 2

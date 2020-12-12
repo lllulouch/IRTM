@@ -1,0 +1,15 @@
+term tf
+feet 1
+chest 2
+caviti 1
+sick 1
+welcom 3
+besid 2
+mine 1
+ran 2
+gun 1
+laugh 1
+strike 1
+temporarili 1
+spoken 1
+mid 1

@@ -1,0 +1,10 @@
+term tf
+vinyl 5
+inward 1
+doubt 1
+interrupt 2
+twice 1
+fashion 1
+loud 1
+somewher 1
+televis 1

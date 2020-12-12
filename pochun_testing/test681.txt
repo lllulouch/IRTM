@@ -1,0 +1,12 @@
+term tf
+confin 1
+theatr 1
+admit 1
+hypothes 1
+caucasian 1
+brown 2
+join 1
+screech 1
+critic 1
+decibel 1
+exclus 1

@@ -1,0 +1,7 @@
+term tf
+journal 1
+spoken 1
+owner 2
+feet 1
+laugh 1
+buri 1

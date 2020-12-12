@@ -1,0 +1,12 @@
+term tf
+fenc 2
+anti 6
+mine 2
+road 1
+prohibit 1
+crew 1
+poor 3
+temporarili 1
+confin 1
+vinyl 1
+hypothes 1

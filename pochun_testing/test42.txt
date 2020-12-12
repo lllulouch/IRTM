@@ -1,0 +1,16 @@
+term tf
+mid 1
+continent 2
+televis 1
+fals 1
+instantan 2
+reappear 1
+cloud 2
+accid 1
+lane 2
+guis 1
+laugh 2
+stabil 1
+solidifi 1
+road 5
+soul 1

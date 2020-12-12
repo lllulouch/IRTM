@@ -1,0 +1,10 @@
+term tf
+sector 1
+discret 1
+wild 1
+shell 2
+motion 1
+prolong 1
+attract 1
+cloud 1
+caught 2

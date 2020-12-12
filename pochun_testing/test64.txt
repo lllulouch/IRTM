@@ -1,0 +1,6 @@
+term tf
+monthli 1
+unaffect 1
+behav 1
+mortem 1
+outbreak 1

@@ -1,0 +1,4 @@
+term tf
+astronomi 1
+gamma 1
+png 1

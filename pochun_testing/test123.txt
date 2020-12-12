@@ -1,0 +1,8 @@
+term tf
+chest 1
+monthli 1
+behav 1
+violenc 1
+reappear 1
+accid 1
+restor 1

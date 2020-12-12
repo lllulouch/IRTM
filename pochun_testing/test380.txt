@@ -1,0 +1,14 @@
+term tf
+prohibit 1
+televis 5
+automat 1
+auction 1
+caucasian 1
+demand 1
+trap 1
+therapist 1
+wake 1
+solidifi 1
+besid 1
+henri 3
+chant 2

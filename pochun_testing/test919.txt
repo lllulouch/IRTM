@@ -1,0 +1,13 @@
+term tf
+enforc 1
+agenc 1
+rem 1
+spoken 1
+nativ 1
+mute 1
+replic 1
+wake 3
+proclaim 2
+peac 1
+violenc 3
+cost 1

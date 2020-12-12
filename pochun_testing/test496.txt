@@ -1,0 +1,4 @@
+term tf
+decay 1
+burrow 1
+choic 1

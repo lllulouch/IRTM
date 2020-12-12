@@ -1,0 +1,4 @@
+term tf
+moistur 1
+cherri 1
+garment 1

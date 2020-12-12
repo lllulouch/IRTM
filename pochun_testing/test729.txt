@@ -1,0 +1,6 @@
+term tf
+prohibit 1
+rhythmic 3
+fashion 1
+countri 1
+enforc 2

@@ -1,0 +1,9 @@
+term tf
+prohibit 1
+sunk 1
+crew 4
+elimin 1
+ocean 1
+join 1
+indigen 1
+sick 1

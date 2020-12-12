@@ -1,0 +1,8 @@
+term tf
+ocean 1
+unaffect 1
+prolong 1
+east 1
+barren 1
+motion 2
+accid 1

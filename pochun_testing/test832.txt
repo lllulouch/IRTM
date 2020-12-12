@@ -1,0 +1,14 @@
+term tf
+exchang 3
+conceal 1
+smartphon 2
+televis 1
+improp 1
+mine 1
+worth 1
+somewher 1
+scholar 4
+suffic 1
+wake 1
+circl 1
+trap 1

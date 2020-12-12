@@ -1,0 +1,6 @@
+term tf
+indoor 2
+scaveng 2
+hive 2
+dog 1
+enclosur 1

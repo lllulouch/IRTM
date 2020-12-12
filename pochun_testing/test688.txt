@@ -1,0 +1,16 @@
+term tf
+prohibit 1
+charact 2
+genr 1
+critic 1
+besid 2
+interrupt 2
+phone 1
+wake 1
+satur 1
+saliva 1
+doubl 1
+societi 1
+societ 1
+motion 1
+exchang 1

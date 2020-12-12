@@ -1,0 +1,8 @@
+term tf
+sector 2
+doubt 1
+admit 2
+west 1
+restrain 1
+automat 1
+worth 1

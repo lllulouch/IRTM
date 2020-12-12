@@ -1,0 +1,7 @@
+term tf
+ocean 2
+underway 1
+disabl 2
+attract 1
+nativ 1
+absorb 1

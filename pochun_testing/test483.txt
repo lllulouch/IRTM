@@ -1,0 +1,6 @@
+term tf
+forget 2
+concept 1
+sir 3
+accid 1
+wake 1

@@ -1,0 +1,4 @@
+term tf
+scientif 1
+counter 1
+shotgun 1

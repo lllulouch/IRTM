@@ -1,0 +1,16 @@
+term tf
+poi 8
+apprehens 1
+acoust 2
+decibel 1
+loud 1
+west 1
+motion 2
+injur 2
+squeez 1
+lover 1
+dog 1
+poor 1
+wake 1
+besid 1
+print 1

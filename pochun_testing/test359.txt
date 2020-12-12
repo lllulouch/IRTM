@@ -1,0 +1,4 @@
+term tf
+unaffect 1
+wild 1
+soul 1

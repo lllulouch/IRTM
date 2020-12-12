@@ -1,0 +1,6 @@
+term tf
+confin 1
+restor 1
+injur 1
+exchang 1
+restrain 1

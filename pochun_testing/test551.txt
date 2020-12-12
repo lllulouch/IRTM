@@ -1,0 +1,7 @@
+term tf
+dedic 1
+apex 1
+compound 1
+hue 1
+strike 1
+replic 1

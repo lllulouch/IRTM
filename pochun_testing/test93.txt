@@ -1,0 +1,15 @@
+term tf
+incorpor 1
+brand 1
+shell 1
+joint 1
+leak 1
+moscow 1
+francisco 1
+prolong 1
+planet 1
+societi 1
+join 1
+livestock 1
+trait 1
+biped 1

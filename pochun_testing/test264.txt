@@ -1,0 +1,6 @@
+term tf
+temporarili 1
+trap 1
+leak 1
+worth 1
+caviti 1

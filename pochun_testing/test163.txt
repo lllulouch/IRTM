@@ -1,0 +1,8 @@
+term tf
+leader 1
+coupl 1
+caviti 1
+replic 1
+pregnanc 1
+sir 1
+revis 2

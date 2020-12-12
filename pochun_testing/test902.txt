@@ -1,0 +1,5 @@
+term tf
+centimet 1
+anti 1
+absorb 1
+decay 1

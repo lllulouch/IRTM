@@ -1,0 +1,8 @@
+term tf
+intervent 1
+confin 1
+journal 2
+therebi 1
+automaton 1
+sole 1
+usabl 1

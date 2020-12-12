@@ -1,0 +1,3 @@
+term tf
+buri 3
+charact 1

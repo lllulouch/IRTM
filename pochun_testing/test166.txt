@@ -1,0 +1,8 @@
+term tf
+dedic 1
+entangl 1
+strike 3
+nativ 1
+dress 1
+holder 1
+discret 1

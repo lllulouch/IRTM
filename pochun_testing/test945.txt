@@ -1,0 +1,6 @@
+term tf
+prohibit 1
+trap 3
+korea 1
+nullifi 1
+cool 1

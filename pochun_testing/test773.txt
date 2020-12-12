@@ -1,0 +1,12 @@
+term tf
+prolong 1
+circl 1
+sam 3
+besid 1
+databas 1
+reappear 1
+irrepar 1
+somewher 1
+mine 1
+diagnosi 1
+ditch 1

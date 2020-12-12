@@ -1,0 +1,7 @@
+term tf
+plate 1
+instantan 1
+etc 1
+restor 1
+incorpor 1
+charact 1

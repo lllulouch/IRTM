@@ -1,0 +1,9 @@
+term tf
+phone 18
+graffiti 1
+dedic 1
+etc 2
+demand 1
+vocabulari 1
+fashion 1
+charact 3

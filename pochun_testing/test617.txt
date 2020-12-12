@@ -1,0 +1,8 @@
+term tf
+erod 1
+critic 1
+heartbeat 1
+asphyxi 1
+decay 1
+apprehens 1
+bargain 1

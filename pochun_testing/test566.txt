@@ -1,0 +1,6 @@
+term tf
+owner 1
+loud 1
+trap 1
+option 2
+depress 1

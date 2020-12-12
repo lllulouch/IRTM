@@ -1,0 +1,6 @@
+term tf
+reappear 1
+demand 1
+admit 2
+crew 1
+confin 1

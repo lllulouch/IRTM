@@ -1,0 +1,8 @@
+term tf
+compound 1
+donor 1
+restor 1
+centimet 3
+absorb 1
+fragment 4
+untouch 1

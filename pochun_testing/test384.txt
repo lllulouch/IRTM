@@ -1,0 +1,8 @@
+term tf
+databas 5
+forbidden 1
+prohibit 1
+underway 1
+enforc 1
+print 1
+absenc 1

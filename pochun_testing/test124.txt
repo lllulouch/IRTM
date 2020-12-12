@@ -1,0 +1,8 @@
+term tf
+fenc 2
+attract 1
+imaginari 1
+boy 1
+injur 1
+feet 1
+trap 1

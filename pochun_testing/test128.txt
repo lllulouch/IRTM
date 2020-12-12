@@ -1,0 +1,10 @@
+term tf
+loud 2
+wild 1
+disrupt 2
+rem 3
+wake 1
+apprehens 1
+feet 1
+disabl 1
+motion 1

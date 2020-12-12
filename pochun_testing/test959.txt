@@ -1,0 +1,9 @@
+term tf
+monthli 1
+plate 2
+reappear 1
+confin 1
+anti 1
+coupl 1
+fragment 1
+brand 1

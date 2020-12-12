@@ -1,0 +1,16 @@
+term tf
+notifi 1
+phone 1
+automat 1
+disrupt 1
+intervent 1
+astronomi 1
+garment 1
+leader 2
+scientif 1
+mine 2
+motion 1
+interrupt 1
+cost 1
+earlier 1
+exchang 1

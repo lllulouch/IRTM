@@ -1,0 +1,7 @@
+term tf
+plate 1
+centimet 1
+cool 1
+circl 1
+injur 1
+garb 1

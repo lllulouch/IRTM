@@ -1,0 +1,8 @@
+term tf
+ocean 1
+enforc 1
+feet 1
+crew 1
+centimet 1
+certainli 1
+recogniz 1

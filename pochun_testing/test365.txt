@@ -1,0 +1,7 @@
+term tf
+gun 1
+disabl 2
+slightest 1
+sir 2
+unto 1
+boy 1

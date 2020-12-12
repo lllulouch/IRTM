@@ -1,0 +1,6 @@
+term tf
+fals 1
+princ 1
+wild 1
+charm 2
+counter 1

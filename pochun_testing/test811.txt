@@ -1,0 +1,9 @@
+term tf
+road 1
+practition 2
+asia 1
+feet 1
+darken 1
+ran 1
+grown 1
+centimet 1

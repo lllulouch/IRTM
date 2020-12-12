@@ -1,0 +1,8 @@
+term tf
+etc 1
+discret 1
+caucasian 1
+digest 1
+unaffect 1
+apprehens 1
+east 1

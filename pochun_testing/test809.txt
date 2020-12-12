@@ -1,0 +1,11 @@
+term tf
+absenc 1
+uninterrupt 1
+hierarchi 1
+ran 1
+holder 1
+amic 1
+demand 1
+ahead 1
+choic 1
+png 1

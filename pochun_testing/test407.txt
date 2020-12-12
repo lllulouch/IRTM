@@ -1,0 +1,6 @@
+term tf
+aberr 1
+diagnosi 1
+exclus 1
+caucasian 1
+brown 2

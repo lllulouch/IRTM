@@ -1,0 +1,6 @@
+term tf
+sector 1
+digest 1
+owner 8
+livestock 1
+systemat 1

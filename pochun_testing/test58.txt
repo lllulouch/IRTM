@@ -1,0 +1,9 @@
+term tf
+rem 1
+notifi 1
+dress 1
+francisco 1
+feet 1
+vision 1
+goggl 1
+hypothes 1

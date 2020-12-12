@@ -1,0 +1,8 @@
+term tf
+circl 2
+cool 1
+exclus 1
+feet 1
+dubiou 1
+fashion 1
+ditch 1

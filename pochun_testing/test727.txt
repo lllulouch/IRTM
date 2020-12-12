@@ -1,0 +1,7 @@
+term tf
+interrupt 1
+chest 1
+mute 1
+poor 1
+circl 3
+son 1

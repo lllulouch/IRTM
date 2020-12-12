@@ -1,0 +1,11 @@
+term tf
+loud 1
+forget 2
+sick 1
+choic 1
+gloriou 1
+certainli 1
+hierarchi 2
+interrupt 1
+print 1
+wondertain 1

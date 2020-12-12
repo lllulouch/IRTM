@@ -1,0 +1,6 @@
+term tf
+sarah 10
+databas 2
+fragment 1
+admit 1
+somewher 1

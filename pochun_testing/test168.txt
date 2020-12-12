@@ -1,0 +1,7 @@
+term tf
+martial 1
+proport 1
+sensit 2
+cost 1
+admit 1
+prolong 1

@@ -1,0 +1,7 @@
+term tf
+momentum 2
+instantan 1
+asphyxi 1
+feet 2
+boy 1
+sick 1

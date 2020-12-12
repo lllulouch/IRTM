@@ -1,0 +1,8 @@
+term tf
+deton 1
+intervent 1
+guis 1
+raid 1
+amnestic 1
+mc 1
+plate 1

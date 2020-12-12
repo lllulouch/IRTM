@@ -1,0 +1,7 @@
+term tf
+forbidden 1
+cool 1
+temporarili 1
+restrain 1
+grown 1
+trait 1

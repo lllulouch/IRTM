@@ -1,0 +1,5 @@
+term tf
+fenc 1
+owner 2
+soak 1
+injur 1

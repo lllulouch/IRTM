@@ -1,0 +1,7 @@
+term tf
+sector 2
+brand 1
+compound 2
+absorb 1
+restrain 2
+systemat 1

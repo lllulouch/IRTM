@@ -1,0 +1,8 @@
+term tf
+livestock 1
+dock 1
+restrain 1
+press 1
+widen 1
+option 1
+chest 1

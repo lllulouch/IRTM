@@ -1,0 +1,5 @@
+term tf
+crew 3
+campaign 1
+preternatur 1
+apprehens 1

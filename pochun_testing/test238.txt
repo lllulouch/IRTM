@@ -1,0 +1,4 @@
+term tf
+tailor 1
+join 1
+dog 1

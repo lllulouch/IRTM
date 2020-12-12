@@ -1,0 +1,5 @@
+term tf
+donor 10
+press 1
+leak 2
+behav 1

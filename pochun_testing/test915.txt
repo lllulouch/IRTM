@@ -1,0 +1,4 @@
+term tf
+motion 1
+absorb 1
+cursori 1

@@ -1,0 +1,8 @@
+term tf
+scientif 1
+gamma 2
+planet 4
+launch 2
+caviti 1
+fallout 1
+indecipher 1

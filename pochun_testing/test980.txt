@@ -1,0 +1,8 @@
+term tf
+phone 1
+suffic 1
+hue 1
+laugh 1
+elbow 1
+televis 1
+confin 1

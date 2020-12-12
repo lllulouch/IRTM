@@ -1,0 +1,8 @@
+term tf
+road 1
+ladder 2
+notifi 1
+dog 4
+anti 1
+conceal 1
+laugh 1

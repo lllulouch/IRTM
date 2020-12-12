@@ -1,0 +1,4 @@
+term tf
+phase 4
+temporarili 1
+genr 1

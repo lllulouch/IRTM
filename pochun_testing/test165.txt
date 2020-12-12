@@ -1,0 +1,4 @@
+term tf
+motion 1
+cool 1
+gun 1

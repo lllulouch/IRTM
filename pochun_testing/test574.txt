@@ -1,0 +1,8 @@
+term tf
+fenc 1
+poi 7
+sole 1
+admit 1
+owner 2
+impur 1
+soul 1

@@ -1,0 +1,8 @@
+term tf
+mid 1
+enforc 1
+deton 4
+intervent 1
+interrupt 2
+reappear 1
+underway 1

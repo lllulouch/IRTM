@@ -1,0 +1,5 @@
+term tf
+uiu 9
+stole 1
+exclus 1
+fals 1

@@ -1,0 +1,10 @@
+term tf
+enforc 1
+pine 2
+barren 2
+compound 1
+guis 1
+injur 1
+amnestic 1
+wild 1
+tran 1

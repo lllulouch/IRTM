@@ -1,0 +1,8 @@
+term tf
+road 3
+campaign 1
+plate 1
+poi 1
+hierarchi 1
+incorpor 1
+dedic 1

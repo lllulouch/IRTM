@@ -1,0 +1,10 @@
+term tf
+guis 1
+shell 1
+interrupt 2
+basin 9
+caught 1
+compound 1
+widen 1
+restor 1
+grown 1

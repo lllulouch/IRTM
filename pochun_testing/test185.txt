@@ -1,0 +1,8 @@
+term tf
+dedic 1
+absorb 1
+absenc 1
+trait 1
+exclus 1
+untouch 1
+gentli 1

@@ -1,0 +1,3 @@
+term tf
+evapor 1
+virul 1

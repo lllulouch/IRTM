@@ -1,0 +1,6 @@
+term tf
+sector 6
+asia 1
+brand 1
+wondertain 4
+charact 1

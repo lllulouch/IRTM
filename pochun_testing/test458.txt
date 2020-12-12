@@ -1,0 +1,6 @@
+term tf
+exclus 1
+sector 1
+plate 1
+ladder 1
+chest 1

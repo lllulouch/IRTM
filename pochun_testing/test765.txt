@@ -1,0 +1,5 @@
+term tf
+sector 1
+fashion 1
+join 1
+refil 1

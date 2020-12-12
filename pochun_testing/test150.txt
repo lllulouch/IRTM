@@ -1,0 +1,8 @@
+term tf
+fenc 2
+doubl 1
+enforc 1
+restrain 1
+sector 1
+dubiou 1
+forbidden 1

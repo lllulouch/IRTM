@@ -1,0 +1,6 @@
+term tf
+discret 1
+accomplish 1
+gamma 1
+brown 1
+caucasian 2

@@ -1,0 +1,3 @@
+term tf
+print 1
+screech 1

@@ -1,0 +1,8 @@
+term tf
+temporari 1
+egypt 1
+trap 1
+agenc 1
+critic 1
+fenc 3
+besid 1

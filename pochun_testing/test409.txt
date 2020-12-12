@@ -1,0 +1,6 @@
+term tf
+recogniz 2
+charact 5
+cool 1
+welcom 1
+print 1

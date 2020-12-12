@@ -1,0 +1,4 @@
+term tf
+enforc 1
+gun 1
+chest 1

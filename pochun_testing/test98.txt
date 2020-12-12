@@ -1,0 +1,7 @@
+term tf
+twice 1
+trait 1
+vinyl 1
+digest 1
+centimet 8
+feet 1

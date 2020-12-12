@@ -1,0 +1,8 @@
+term tf
+unaffect 1
+reappear 1
+restor 1
+exchang 1
+road 3
+poor 1
+chest 1

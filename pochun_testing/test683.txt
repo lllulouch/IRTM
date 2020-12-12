@@ -1,0 +1,11 @@
+term tf
+east 1
+west 1
+cost 1
+countri 1
+trap 1
+mute 1
+garment 1
+injur 1
+deleg 1
+campaign 1

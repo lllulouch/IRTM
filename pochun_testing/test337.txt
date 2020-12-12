@@ -1,0 +1,13 @@
+term tf
+goggl 3
+specialis 1
+print 2
+press 2
+raid 1
+leader 1
+owner 1
+phase 1
+obfusc 1
+charact 1
+incorpor 1
+databas 1

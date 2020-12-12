@@ -1,0 +1,5 @@
+term tf
+fenc 1
+countri 1
+joint 1
+disabl 1

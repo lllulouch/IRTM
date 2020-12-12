@@ -1,0 +1,5 @@
+term tf
+forev 1
+laugh 1
+east 1
+mystic 1

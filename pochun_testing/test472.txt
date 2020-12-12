@@ -1,0 +1,12 @@
+term tf
+auction 2
+journal 5
+francisco 4
+countri 1
+somewher 1
+withdrawn 1
+print 1
+societi 1
+loud 1
+poor 1
+vision 1

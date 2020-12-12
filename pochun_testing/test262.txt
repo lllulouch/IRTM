@@ -1,0 +1,16 @@
+term tf
+wild 2
+vision 1
+enclosur 1
+biomass 1
+discret 1
+burrow 2
+ambush 1
+conceal 1
+inward 1
+digest 2
+elbow 2
+joint 1
+feet 1
+admit 1
+canal 1

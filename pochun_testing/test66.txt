@@ -1,0 +1,7 @@
+term tf
+shell 3
+fragment 3
+injur 1
+brand 1
+stabil 1
+interrupt 1

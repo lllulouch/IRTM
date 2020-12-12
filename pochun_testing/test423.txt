@@ -1,0 +1,4 @@
+term tf
+owner 2
+behav 1
+worth 1

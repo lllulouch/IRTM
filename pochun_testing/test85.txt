@@ -1,0 +1,6 @@
+term tf
+reappear 1
+owner 1
+temporari 1
+disprov 1
+feet 1

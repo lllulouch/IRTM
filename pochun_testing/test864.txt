@@ -1,0 +1,8 @@
+term tf
+fenc 1
+feet 1
+thaumic 1
+behav 1
+restrain 1
+tropic 1
+recogniz 1

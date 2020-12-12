@@ -1,0 +1,5 @@
+term tf
+reenter 1
+withdrawn 1
+gamma 1
+conceal 1

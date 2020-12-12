@@ -1,0 +1,6 @@
+term tf
+sector 2
+attract 1
+etc 1
+joint 2
+undon 1

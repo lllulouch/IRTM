@@ -1,0 +1,4 @@
+term tf
+prohibit 1
+hypothes 1
+exclus 1

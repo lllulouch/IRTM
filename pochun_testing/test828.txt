@@ -1,0 +1,11 @@
+term tf
+discret 1
+sole 1
+concept 1
+planet 1
+print 3
+earlier 1
+trap 2
+ocean 1
+motherfuck 1
+compound 1

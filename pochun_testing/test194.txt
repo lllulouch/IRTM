@@ -1,0 +1,5 @@
+term tf
+twice 1
+exchang 1
+crew 1
+bargain 1

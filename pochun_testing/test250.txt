@@ -1,0 +1,11 @@
+term tf
+sector 1
+fashion 1
+tonn 1
+crew 2
+launch 1
+restrain 1
+behav 1
+violenc 1
+besid 1
+option 1

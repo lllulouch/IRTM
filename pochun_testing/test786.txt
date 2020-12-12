@@ -1,0 +1,3 @@
+term tf
+enforc 1
+retrograd 1

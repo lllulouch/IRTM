@@ -1,0 +1,3 @@
+term tf
+dog 2
+incorpor 1

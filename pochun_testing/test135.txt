@@ -1,0 +1,5 @@
+term tf
+leak 1
+replic 2
+systemat 1
+injur 1

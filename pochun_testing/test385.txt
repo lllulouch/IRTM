@@ -1,0 +1,7 @@
+term tf
+countri 1
+outbreak 1
+bio 1
+download 1
+charact 2
+option 2

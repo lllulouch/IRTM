@@ -1,0 +1,5 @@
+term tf
+bio 1
+twice 1
+proport 2
+dusk 1

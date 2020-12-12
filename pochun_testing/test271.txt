@@ -1,0 +1,6 @@
+term tf
+confin 2
+etc 2
+televis 1
+coupl 4
+chest 1

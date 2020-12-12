@@ -1,0 +1,12 @@
+term tf
+restor 2
+amnestic 2
+besid 1
+hypothes 2
+revis 2
+poi 2
+demand 1
+west 1
+preclud 1
+cool 1
+michigan 1

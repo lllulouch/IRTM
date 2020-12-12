@@ -1,0 +1,4 @@
+term tf
+brown 1
+doubl 2
+hung 1

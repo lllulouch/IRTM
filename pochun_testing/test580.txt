@@ -1,0 +1,9 @@
+term tf
+fenc 1
+spars 1
+decay 2
+exclus 1
+earlier 1
+restrain 1
+indecipher 2
+joint 1

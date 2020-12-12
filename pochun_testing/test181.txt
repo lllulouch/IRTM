@@ -1,0 +1,5 @@
+term tf
+wild 1
+bean 1
+proclaim 1
+coupl 1

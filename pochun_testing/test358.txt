@@ -1,0 +1,3 @@
+term tf
+exchang 2
+doubt 1

@@ -1,0 +1,10 @@
+term tf
+vision 2
+stabil 1
+rem 1
+hypothes 1
+charact 7
+withdrawn 1
+amnestic 1
+phase 1
+temporarili 1

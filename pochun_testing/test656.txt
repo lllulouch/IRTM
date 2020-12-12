@@ -1,0 +1,5 @@
+term tf
+monthli 1
+basin 5
+centimet 1
+confin 2

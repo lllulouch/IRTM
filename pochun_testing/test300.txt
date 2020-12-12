@@ -1,0 +1,4 @@
+term tf
+sector 1
+brand 1
+databas 1

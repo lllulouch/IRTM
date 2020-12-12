@@ -1,0 +1,11 @@
+term tf
+leak 1
+brown 1
+centimet 1
+decay 1
+temporarili 1
+dedic 1
+temporari 1
+wake 1
+databas 1
+dog 1

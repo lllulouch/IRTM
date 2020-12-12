@@ -1,0 +1,7 @@
+term tf
+gun 1
+crew 1
+unarm 5
+elimin 1
+nativ 1
+countri 1

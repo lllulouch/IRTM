@@ -1,0 +1,5 @@
+term tf
+fenc 1
+choic 1
+boredom 1
+depress 1

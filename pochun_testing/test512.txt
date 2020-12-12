@@ -1,0 +1,6 @@
+term tf
+vision 1
+fragment 1
+unaffect 1
+brand 1
+sensit 1

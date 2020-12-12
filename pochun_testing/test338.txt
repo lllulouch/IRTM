@@ -1,0 +1,14 @@
+term tf
+turkey 3
+attract 2
+campaign 2
+peac 1
+asia 2
+restor 2
+societi 1
+journal 1
+therapist 2
+moistur 1
+exchang 1
+circl 1
+road 1

@@ -1,0 +1,6 @@
+term tf
+option 1
+diagnosi 1
+absorb 1
+cloud 1
+worthless 1

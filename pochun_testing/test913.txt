@@ -1,0 +1,9 @@
+term tf
+fenc 1
+guis 1
+genr 1
+plate 1
+coupl 1
+soak 1
+loud 1
+upkeep 1

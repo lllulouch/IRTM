@@ -1,0 +1,14 @@
+term tf
+fenc 1
+peac 1
+reput 1
+refug 1
+west 3
+worth 15
+admit 1
+prolong 1
+temporarili 1
+ocean 1
+phone 1
+mid 1
+proclaim 1

@@ -1,0 +1,11 @@
+term tf
+excurs 1
+notifi 1
+ahead 1
+forbidden 1
+tan 1
+dress 1
+disprov 1
+prolong 1
+guis 1
+admit 2

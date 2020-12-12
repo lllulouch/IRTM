@@ -1,0 +1,6 @@
+term tf
+demand 1
+freshli 1
+sir 1
+ahead 1
+outta 1

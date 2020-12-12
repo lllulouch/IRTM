@@ -1,0 +1,6 @@
+term tf
+enclosur 2
+wild 1
+viabil 1
+thrash 1
+engulf 4

@@ -1,0 +1,4 @@
+term tf
+temporarili 1
+digest 1
+fl 1

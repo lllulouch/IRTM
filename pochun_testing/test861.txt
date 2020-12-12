@@ -1,0 +1,11 @@
+term tf
+forget 1
+cognit 2
+caucasian 1
+henri 1
+pa 1
+texa 1
+cloud 1
+print 1
+gamma 1
+prep 1

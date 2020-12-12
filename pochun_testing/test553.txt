@@ -1,0 +1,10 @@
+term tf
+plate 1
+deton 1
+centimet 1
+owner 1
+cost 1
+brown 1
+demand 1
+caucasian 1
+enforc 1

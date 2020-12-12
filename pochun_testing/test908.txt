@@ -1,0 +1,3 @@
+term tf
+gun 2
+cool 3

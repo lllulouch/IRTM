@@ -1,0 +1,5 @@
+term tf
+sector 1
+biped 1
+vision 2
+owner 2

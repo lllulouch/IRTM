@@ -1,0 +1,6 @@
+term tf
+notifi 1
+besid 2
+skeptic 1
+coupl 1
+counter 1

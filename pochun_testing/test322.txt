@@ -1,0 +1,13 @@
+term tf
+exclus 1
+cognit 1
+asteroid 1
+decay 2
+launch 2
+motion 2
+indecipher 1
+cloud 9
+recogniz 1
+counter 2
+join 1
+strike 2

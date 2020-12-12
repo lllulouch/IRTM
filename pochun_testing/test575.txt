@@ -1,0 +1,4 @@
+term tf
+prohibit 1
+accid 1
+absorb 1

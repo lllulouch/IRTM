@@ -1,0 +1,6 @@
+term tf
+scroll 4
+exchang 1
+forev 1
+soul 1
+besid 1

@@ -1,0 +1,6 @@
+term tf
+joint 1
+poor 1
+raid 1
+brown 1
+restrain 1

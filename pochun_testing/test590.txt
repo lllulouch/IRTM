@@ -1,0 +1,9 @@
+term tf
+graffiti 3
+attract 1
+sole 1
+automat 1
+loud 2
+injur 1
+owner 1
+reappear 1

@@ -1,0 +1,13 @@
+term tf
+exchang 1
+replic 1
+thigh 2
+donor 1
+viabil 2
+mortem 1
+prolong 1
+restor 1
+elbow 1
+injur 1
+owner 1
+poor 1

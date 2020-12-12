@@ -1,0 +1,4 @@
+term tf
+confin 1
+pregnanc 1
+revis 1

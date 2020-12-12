@@ -1,0 +1,4 @@
+term tf
+sensit 1
+download 1
+fragment 1

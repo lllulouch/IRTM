@@ -1,0 +1,7 @@
+term tf
+nu 1
+raid 1
+countri 1
+attract 1
+compound 1
+chill 1

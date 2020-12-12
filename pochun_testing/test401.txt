@@ -1,0 +1,6 @@
+term tf
+print 1
+discret 1
+admit 2
+temporari 1
+dog 2

@@ -1,0 +1,7 @@
+term tf
+attract 1
+deton 9
+fragment 3
+mine 1
+restrain 1
+absorb 1

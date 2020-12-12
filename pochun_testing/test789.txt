@@ -1,0 +1,5 @@
+term tf
+fenc 1
+paw 1
+trait 1
+mid 1

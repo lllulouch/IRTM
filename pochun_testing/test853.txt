@@ -1,0 +1,8 @@
+term tf
+grown 1
+amnestic 1
+digest 1
+buri 1
+sequenti 1
+instantan 1
+circl 1

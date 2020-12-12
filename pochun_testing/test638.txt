@@ -1,0 +1,15 @@
+term tf
+vocabulari 1
+concept 1
+therapist 1
+tumbl 1
+somewher 2
+dress 1
+enforc 1
+etc 1
+poor 1
+feet 1
+welcom 2
+phone 1
+lash 1
+certainli 1

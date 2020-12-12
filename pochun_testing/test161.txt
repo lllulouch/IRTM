@@ -1,0 +1,4 @@
+term tf
+road 1
+join 1
+decay 2

@@ -1,0 +1,7 @@
+term tf
+proclaim 1
+scribbl 1
+charact 1
+forev 1
+certainli 1
+scientif 1

@@ -1,0 +1,8 @@
+term tf
+fenc 1
+wondertain 10
+reappear 1
+injur 1
+welcom 1
+attract 2
+loud 1

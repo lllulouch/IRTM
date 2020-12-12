@@ -1,0 +1,5 @@
+term tf
+enforc 2
+amnestic 1
+agenc 1
+sole 1

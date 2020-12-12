@@ -1,0 +1,9 @@
+term tf
+shell 1
+chest 3
+brown 1
+replic 1
+caviti 1
+fashion 2
+lash 1
+vision 1

@@ -1,0 +1,7 @@
+term tf
+confin 1
+etc 1
+restrain 1
+restor 1
+dress 1
+wake 1

@@ -1,0 +1,12 @@
+term tf
+canadian 1
+fenc 3
+injur 1
+trait 1
+polar 1
+wolv 5
+wild 2
+dog 1
+fashion 1
+dolphin 1
+underway 1

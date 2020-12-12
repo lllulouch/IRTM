@@ -1,0 +1,14 @@
+term tf
+cost 1
+centimet 1
+indigen 1
+cultiv 1
+acoust 1
+enforc 1
+apprehens 1
+sir 2
+caught 1
+nativ 2
+wake 1
+imaginari 1
+revis 1

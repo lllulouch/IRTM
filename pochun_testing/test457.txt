@@ -1,0 +1,11 @@
+term tf
+fenc 2
+automat 1
+stabil 1
+anti 1
+amnestic 2
+mound 1
+behav 1
+spoken 1
+compound 1
+paralysi 1

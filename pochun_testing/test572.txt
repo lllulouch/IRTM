@@ -1,0 +1,6 @@
+term tf
+trait 1
+restor 1
+auction 2
+welcom 1
+son 1

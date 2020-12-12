@@ -1,0 +1,16 @@
+term tf
+download 5
+buri 1
+automat 1
+waterproof 1
+pa 1
+enforc 1
+leader 1
+sir 7
+somewher 1
+owner 1
+choic 1
+ahead 1
+exchang 1
+wild 1
+disrupt 1

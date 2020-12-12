@@ -1,0 +1,14 @@
+term tf
+fenc 1
+motion 1
+dedic 1
+moistur 3
+behav 2
+hive 1
+verif 1
+leader 1
+burrow 1
+mound 1
+ran 1
+ocean 1
+temporari 1

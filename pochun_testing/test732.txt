@@ -1,0 +1,7 @@
+term tf
+notifi 1
+shell 8
+absorb 9
+diamond 2
+loud 1
+interrupt 1

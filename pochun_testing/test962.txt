@@ -1,0 +1,11 @@
+term tf
+poi 15
+charact 1
+interrupt 1
+counter 2
+phone 1
+retrograd 1
+skeptic 1
+absenc 1
+crew 1
+disabl 1

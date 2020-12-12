@@ -1,0 +1,8 @@
+term tf
+replenish 5
+twice 1
+demand 1
+exchang 1
+lash 1
+underway 1
+circl 4

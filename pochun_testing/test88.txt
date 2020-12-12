@@ -1,0 +1,5 @@
+term tf
+somewher 1
+injur 1
+reappear 1
+absenc 1

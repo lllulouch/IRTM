@@ -1,0 +1,5 @@
+term tf
+doubl 1
+unsettl 1
+cool 1
+certainli 1

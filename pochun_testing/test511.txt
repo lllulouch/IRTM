@@ -1,0 +1,16 @@
+term tf
+confin 1
+disabl 1
+caucasian 1
+hue 1
+admit 2
+joint 2
+fragment 1
+behav 1
+decay 1
+relic 1
+holder 1
+tailor 1
+restrain 1
+loud 1
+bio 1

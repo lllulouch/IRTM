@@ -1,0 +1,12 @@
+term tf
+prohibit 1
+enforc 1
+agenc 1
+sole 1
+artwork 2
+queri 2
+mound 1
+attic 3
+conceal 2
+basin 3
+journal 1

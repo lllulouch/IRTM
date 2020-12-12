@@ -1,0 +1,13 @@
+term tf
+prohibit 1
+monthli 1
+elimin 1
+wild 1
+feet 1
+ambush 2
+sensit 1
+ocean 1
+prolong 1
+virul 1
+michigan 1
+revis 1

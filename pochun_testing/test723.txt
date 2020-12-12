@@ -1,0 +1,6 @@
+term tf
+deton 3
+journal 1
+soul 2
+print 1
+peac 2

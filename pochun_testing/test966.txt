@@ -1,0 +1,14 @@
+term tf
+fenc 1
+critic 2
+trap 3
+satur 1
+disrupt 1
+sensit 1
+conceal 1
+circl 1
+automat 1
+mine 2
+uiu 4
+kia 1
+injur 1

@@ -1,0 +1,6 @@
+term tf
+planet 8
+scientif 1
+societi 2
+hypothes 1
+sole 1

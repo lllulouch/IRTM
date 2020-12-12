@@ -1,0 +1,10 @@
+term tf
+sector 1
+besid 1
+violenc 5
+canal 1
+road 1
+demolit 1
+ran 1
+stabil 1
+hypothes 1

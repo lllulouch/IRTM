@@ -1,0 +1,4 @@
+term tf
+digest 2
+rhythmic 1
+cognit 1

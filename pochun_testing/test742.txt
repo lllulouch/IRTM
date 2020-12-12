@@ -1,0 +1,4 @@
+term tf
+decay 3
+multicolor 1
+fals 1

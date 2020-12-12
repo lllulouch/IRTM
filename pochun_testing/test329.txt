@@ -1,0 +1,11 @@
+term tf
+bio 1
+sector 2
+fenc 2
+enclosur 1
+wild 2
+twice 1
+provoc 1
+behav 2
+trait 2
+mid 1

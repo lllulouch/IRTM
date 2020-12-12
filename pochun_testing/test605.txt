@@ -1,0 +1,9 @@
+term tf
+poor 1
+mid 1
+circl 1
+scissor 1
+sir 4
+boy 1
+ran 1
+caucasian 1

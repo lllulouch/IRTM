@@ -1,0 +1,5 @@
+term tf
+intervent 2
+owner 1
+asia 1
+admit 2

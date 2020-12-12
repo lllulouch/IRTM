@@ -1,0 +1,4 @@
+term tf
+shell 1
+motion 1
+scientif 1

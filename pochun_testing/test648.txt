@@ -1,0 +1,9 @@
+term tf
+brand 2
+stole 1
+cherri 1
+continent 1
+vision 1
+forev 1
+demand 1
+morgu 1

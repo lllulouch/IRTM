@@ -1,0 +1,9 @@
+term tf
+sector 1
+violenc 1
+motion 1
+loud 1
+launch 1
+rever 1
+sensit 1
+vision 3

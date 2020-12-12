@@ -1,0 +1,4 @@
+term tf
+incorpor 1
+conceal 1
+preclud 1

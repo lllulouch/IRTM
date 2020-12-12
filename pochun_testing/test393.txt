@@ -1,0 +1,4 @@
+term tf
+shell 1
+mid 1
+bitten 1

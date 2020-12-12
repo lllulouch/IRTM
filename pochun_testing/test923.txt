@@ -1,0 +1,9 @@
+term tf
+societi 2
+laugh 1
+overload 1
+option 1
+planet 1
+wake 1
+road 2
+raid 2

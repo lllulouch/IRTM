@@ -1,0 +1,14 @@
+term tf
+chest 4
+caviti 1
+underway 1
+poi 11
+databas 2
+gun 2
+counter 1
+ahead 1
+earlier 1
+tax 1
+raid 1
+phone 1
+upsid 1

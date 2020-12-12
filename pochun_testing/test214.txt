@@ -1,0 +1,7 @@
+term tf
+monthli 1
+databas 1
+continent 1
+slurri 2
+upkeep 1
+owner 1

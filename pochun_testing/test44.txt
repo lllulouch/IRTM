@@ -1,0 +1,4 @@
+term tf
+diagnosi 1
+press 1
+mine 1

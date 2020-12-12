@@ -1,0 +1,10 @@
+term tf
+print 1
+waterproof 1
+caviti 1
+absorb 1
+enclosur 3
+conceal 1
+temporari 1
+attract 1
+cost 1

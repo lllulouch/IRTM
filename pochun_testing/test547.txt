@@ -1,0 +1,8 @@
+term tf
+joint 2
+polar 1
+worth 1
+chest 1
+unaffect 1
+paralysi 1
+sector 1

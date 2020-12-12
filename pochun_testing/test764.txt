@@ -1,0 +1,4 @@
+term tf
+press 1
+disprov 1
+dolphin 3

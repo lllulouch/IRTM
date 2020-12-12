@@ -1,0 +1,11 @@
+term tf
+contest 1
+campaign 1
+fashion 1
+poi 3
+coupl 1
+poor 1
+doubt 1
+conceal 1
+print 1
+countri 1

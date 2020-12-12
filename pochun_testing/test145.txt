@@ -1,0 +1,8 @@
+term tf
+incorpor 1
+forev 1
+trap 1
+burrow 1
+caviti 1
+forget 1
+brand 1

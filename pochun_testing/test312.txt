@@ -1,0 +1,5 @@
+term tf
+theolog 1
+decay 1
+caucasian 1
+buri 2

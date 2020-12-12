@@ -1,0 +1,17 @@
+term tf
+doubl 1
+prohibit 1
+discret 1
+injur 2
+spoken 1
+demolit 1
+crew 1
+twice 2
+temporarili 1
+dress 1
+son 1
+interrupt 1
+choic 1
+suffic 1
+prolong 1
+replic 1

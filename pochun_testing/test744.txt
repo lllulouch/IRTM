@@ -1,0 +1,12 @@
+term tf
+sooth 1
+lane 1
+exclus 2
+incorpor 1
+loud 1
+forev 5
+boy 1
+chest 2
+gun 1
+shell 1
+grown 1

@@ -1,0 +1,7 @@
+term tf
+dog 4
+fenc 2
+grown 1
+brand 1
+wake 2
+join 3

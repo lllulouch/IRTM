@@ -1,0 +1,11 @@
+term tf
+bio 1
+circl 1
+fenc 2
+notifi 1
+caviti 1
+recogniz 1
+databas 1
+decibel 1
+cloud 1
+caught 1

@@ -1,0 +1,4 @@
+term tf
+compound 1
+deton 5
+nativ 1

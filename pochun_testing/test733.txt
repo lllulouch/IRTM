@@ -1,0 +1,13 @@
+term tf
+discret 1
+notifi 1
+chant 1
+phone 2
+feet 1
+deton 1
+hypothes 1
+circl 1
+buri 1
+poi 3
+spoken 1
+reappear 1

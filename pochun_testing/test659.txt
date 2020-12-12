@@ -1,0 +1,11 @@
+term tf
+automat 1
+worth 2
+genr 3
+loud 1
+violenc 1
+acoust 1
+soul 2
+relic 1
+squeez 1
+demand 1

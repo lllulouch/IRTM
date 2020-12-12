@@ -1,0 +1,9 @@
+term tf
+sensit 1
+crew 1
+reappear 2
+sector 1
+trap 1
+plate 1
+incorpor 1
+disabl 1

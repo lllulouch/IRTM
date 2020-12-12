@@ -1,0 +1,5 @@
+term tf
+cortex 2
+supplementari 1
+incorpor 1
+restrain 1

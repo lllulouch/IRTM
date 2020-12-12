@@ -1,0 +1,3 @@
+term tf
+trap 1
+vision 1

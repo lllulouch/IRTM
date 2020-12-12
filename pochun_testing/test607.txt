@@ -1,0 +1,14 @@
+term tf
+tran 2
+instantan 1
+accomplish 1
+par 1
+rhythmic 1
+nativ 1
+proclaim 1
+ahead 1
+join 1
+planet 2
+physicist 1
+charact 1
+poetri 1

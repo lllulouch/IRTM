@@ -1,0 +1,9 @@
+term tf
+enclosur 5
+brown 1
+fashion 1
+biped 1
+therebi 1
+slurri 1
+centimet 1
+elimin 1

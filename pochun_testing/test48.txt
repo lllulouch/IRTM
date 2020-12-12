@@ -1,0 +1,7 @@
+term tf
+campaign 1
+dedic 1
+launch 1
+caught 1
+astronomi 3
+accomplish 1

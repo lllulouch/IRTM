@@ -1,0 +1,6 @@
+term tf
+uncertainti 1
+disprov 1
+join 1
+indoor 1
+option 1

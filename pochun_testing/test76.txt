@@ -1,0 +1,13 @@
+term tf
+fenc 1
+hive 8
+decay 1
+crew 1
+behav 2
+print 1
+restor 1
+admit 1
+gloriou 1
+recogniz 1
+hypothes 1
+journal 1

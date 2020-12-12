@@ -1,0 +1,6 @@
+term tf
+discret 1
+brand 3
+hemispher 1
+besid 1
+brown 1

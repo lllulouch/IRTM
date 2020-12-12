@@ -1,0 +1,12 @@
+term tf
+trap 2
+mine 1
+somewher 1
+campaign 1
+launch 1
+guis 1
+anti 1
+option 1
+ambush 1
+conceal 1
+wild 2

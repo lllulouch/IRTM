@@ -1,0 +1,10 @@
+term tf
+scroll 1
+ourselv 1
+fals 1
+replic 1
+wild 1
+prep 1
+iri 1
+gamma 2
+indecipher 1

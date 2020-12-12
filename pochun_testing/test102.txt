@@ -1,0 +1,8 @@
+term tf
+forbidden 1
+prophet 2
+vision 1
+leader 1
+depress 1
+buri 1
+cloud 1

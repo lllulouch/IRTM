@@ -1,0 +1,9 @@
+term tf
+exclus 1
+ladder 3
+fenc 2
+lantern 2
+etc 1
+interrupt 2
+admit 1
+demolit 1

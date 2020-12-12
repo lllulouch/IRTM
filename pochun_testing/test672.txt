@@ -1,0 +1,4 @@
+term tf
+brand 1
+etc 1
+hue 1

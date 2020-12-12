@@ -1,0 +1,5 @@
+term tf
+conceal 1
+prolong 1
+incurs 2
+spoken 1

@@ -1,0 +1,9 @@
+term tf
+fals 1
+squadron 1
+rhythmic 2
+widen 1
+shell 1
+decay 1
+sheath 1
+cloud 1

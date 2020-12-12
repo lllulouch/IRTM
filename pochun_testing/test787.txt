@@ -1,0 +1,3 @@
+term tf
+turkey 1
+polar 1

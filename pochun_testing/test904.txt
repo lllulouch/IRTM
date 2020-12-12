@@ -1,0 +1,12 @@
+term tf
+amnestic 2
+agenc 2
+constel 1
+hemispher 1
+caviti 1
+rocket 1
+gamma 2
+cloud 1
+exchang 1
+guis 1
+fragment 1

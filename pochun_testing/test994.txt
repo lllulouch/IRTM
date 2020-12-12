@@ -1,0 +1,17 @@
+term tf
+png 1
+bio 1
+forbidden 1
+spoken 1
+undon 1
+sensit 1
+besid 1
+eyelid 1
+ambulatori 1
+joint 2
+confin 1
+phone 1
+forbid 1
+exchang 2
+poor 1
+uninterrupt 2

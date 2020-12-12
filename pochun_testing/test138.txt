@@ -1,0 +1,5 @@
+term tf
+print 1
+incorpor 1
+asphyxi 1
+automat 1

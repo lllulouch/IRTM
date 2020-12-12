@@ -1,0 +1,8 @@
+term tf
+choic 7
+dog 6
+turkey 2
+earlier 1
+forbidden 1
+critic 1
+maker 2

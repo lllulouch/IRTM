@@ -1,0 +1,5 @@
+term tf
+prohibit 1
+sector 1
+accid 1
+leak 1

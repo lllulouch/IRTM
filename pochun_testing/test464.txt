@@ -1,0 +1,5 @@
+term tf
+strike 1
+trap 2
+buri 1
+son 1

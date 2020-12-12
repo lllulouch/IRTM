@@ -1,0 +1,3 @@
+term tf
+burrow 2
+nativ 1

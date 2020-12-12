@@ -1,0 +1,7 @@
+term tf
+cortex 1
+admit 1
+somewher 1
+theatr 1
+laugh 1
+rous 1

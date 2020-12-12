@@ -1,0 +1,16 @@
+term tf
+joint 1
+gamma 3
+agenc 2
+leak 1
+campaign 2
+unaffect 1
+cosmic 4
+launch 2
+mid 1
+mainstream 1
+physicist 1
+temporari 1
+compound 2
+notifi 1
+anniversari 1

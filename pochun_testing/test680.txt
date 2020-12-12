@@ -1,0 +1,12 @@
+term tf
+revis 4
+henri 1
+restrain 3
+passion 2
+behav 1
+demand 3
+counter 1
+certainli 1
+worth 1
+mid 1
+forget 2

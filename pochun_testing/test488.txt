@@ -1,0 +1,10 @@
+term tf
+road 1
+wild 1
+erod 1
+east 3
+west 3
+interrupt 1
+brave 1
+dog 1
+mid 1

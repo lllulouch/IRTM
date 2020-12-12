@@ -1,0 +1,8 @@
+term tf
+fenc 1
+vocabulari 1
+spoken 1
+road 3
+print 1
+dock 1
+join 1

@@ -1,0 +1,10 @@
+term tf
+centimet 1
+prohibit 1
+nullifi 1
+disastr 1
+instantan 1
+brand 1
+certainli 1
+notifi 3
+deton 1

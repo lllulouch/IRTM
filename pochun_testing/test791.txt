@@ -1,0 +1,9 @@
+term tf
+indoor 1
+motion 1
+incorpor 1
+mandibl 1
+worth 1
+circl 1
+compound 1
+leader 1

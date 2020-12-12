@@ -1,0 +1,13 @@
+term tf
+amnestic 1
+violenc 1
+campaign 1
+deton 1
+stockpil 1
+injur 1
+road 1
+coupl 1
+boy 2
+leader 1
+worth 1
+favour 1

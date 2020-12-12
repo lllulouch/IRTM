@@ -1,0 +1,4 @@
+term tf
+twice 1
+etc 1
+lash 1

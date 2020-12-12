@@ -1,0 +1,5 @@
+term tf
+cost 1
+scientif 1
+injur 1
+strike 1

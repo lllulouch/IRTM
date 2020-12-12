@@ -1,0 +1,12 @@
+term tf
+stabil 1
+owner 1
+road 1
+ditch 1
+compound 1
+cloud 1
+dog 1
+dent 1
+attic 2
+loud 1
+fashion 1

@@ -1,0 +1,14 @@
+term tf
+exclus 1
+fenc 1
+deton 2
+fragment 2
+momentum 1
+phone 1
+sir 1
+bio 1
+soul 2
+anti 1
+sam 1
+png 2
+databas 1

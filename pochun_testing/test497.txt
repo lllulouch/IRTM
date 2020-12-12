@@ -1,0 +1,5 @@
+term tf
+brown 1
+absorb 1
+moistur 1
+owner 1

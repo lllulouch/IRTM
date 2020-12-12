@@ -1,0 +1,5 @@
+term tf
+fals 2
+wild 1
+prolong 1
+thigh 1

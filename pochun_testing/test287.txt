@@ -1,0 +1,6 @@
+term tf
+automat 1
+twice 1
+disabl 1
+leader 1
+violenc 1

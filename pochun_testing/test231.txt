@@ -1,0 +1,9 @@
+term tf
+ocean 3
+waterproof 1
+behav 1
+feet 1
+demand 2
+centimet 1
+doubt 1
+ran 1

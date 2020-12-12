@@ -1,0 +1,16 @@
+term tf
+notifi 1
+behav 1
+vision 12
+mute 1
+prolong 1
+demand 1
+trap 1
+restrain 2
+confin 2
+bitten 1
+dog 2
+fals 2
+upsid 3
+motion 1
+elimin 1

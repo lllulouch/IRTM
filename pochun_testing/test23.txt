@@ -1,0 +1,5 @@
+term tf
+bio 1
+indigen 1
+compound 2
+doubl 1

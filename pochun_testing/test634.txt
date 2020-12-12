@@ -1,0 +1,15 @@
+term tf
+exclus 1
+enforc 1
+prohibit 1
+ocean 1
+discret 1
+restor 1
+journal 3
+ran 1
+son 1
+doubt 1
+heretofor 1
+brand 1
+decay 1
+cloud 1

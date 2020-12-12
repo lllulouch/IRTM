@@ -1,0 +1,11 @@
+term tf
+disrupt 1
+michigan 1
+boy 1
+west 2
+behav 1
+forev 2
+accid 1
+coupl 1
+earlier 2
+replic 1

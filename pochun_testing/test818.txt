@@ -1,0 +1,12 @@
+term tf
+charm 13
+nativ 1
+loud 2
+demand 1
+thunder 2
+peac 2
+aye 1
+hung 1
+sentiment 1
+mid 1
+wake 1

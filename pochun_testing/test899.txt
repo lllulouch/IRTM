@@ -1,0 +1,8 @@
+term tf
+temporarili 1
+hmcl 1
+discret 1
+exchang 1
+upsid 1
+gun 1
+decibel 1

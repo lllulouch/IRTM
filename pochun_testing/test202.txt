@@ -1,0 +1,7 @@
+term tf
+owner 1
+doubl 1
+grown 1
+twice 1
+earlier 1
+etc 1

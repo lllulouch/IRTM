@@ -1,0 +1,10 @@
+term tf
+smartphon 2
+shell 2
+brand 3
+len 1
+interrupt 1
+unaffect 1
+brown 1
+phone 1
+automat 1

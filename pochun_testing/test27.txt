@@ -1,0 +1,6 @@
+term tf
+outbreak 2
+sector 3
+phone 1
+notifi 1
+disprov 1

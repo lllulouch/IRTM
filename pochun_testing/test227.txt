@@ -1,0 +1,11 @@
+term tf
+planet 8
+twice 1
+motion 1
+slightest 1
+certainli 1
+confin 1
+cursori 1
+fragment 1
+ocean 1
+caught 1

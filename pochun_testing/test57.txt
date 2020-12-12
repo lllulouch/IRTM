@@ -1,0 +1,9 @@
+term tf
+deleg 1
+motion 1
+launch 1
+injur 1
+ran 1
+attract 1
+hypothes 1
+confin 1

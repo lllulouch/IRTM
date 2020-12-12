@@ -1,0 +1,9 @@
+term tf
+twice 2
+monthli 2
+discret 2
+motion 1
+transient 1
+pregnanc 1
+hypothes 1
+poor 1

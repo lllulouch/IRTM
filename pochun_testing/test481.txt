@@ -1,0 +1,9 @@
+term tf
+sector 1
+livestock 2
+enforc 1
+centimet 1
+pine 1
+etc 1
+ambush 1
+behav 1

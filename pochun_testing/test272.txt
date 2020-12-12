@@ -1,0 +1,9 @@
+term tf
+proport 1
+absenc 1
+admit 1
+hypothes 1
+mid 1
+feet 1
+enforc 1
+apprehens 1

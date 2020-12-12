@@ -1,0 +1,7 @@
+term tf
+grown 1
+widen 1
+thrash 1
+agoni 1
+restrain 1
+confin 1

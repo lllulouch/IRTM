@@ -1,0 +1,5 @@
+term tf
+strike 1
+caucasian 1
+son 1
+depress 1

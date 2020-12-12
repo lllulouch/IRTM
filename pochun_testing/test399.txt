@@ -1,0 +1,8 @@
+term tf
+injur 2
+absenc 1
+vision 1
+etc 1
+prolong 1
+cloud 1
+eyelid 1

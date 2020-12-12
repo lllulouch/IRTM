@@ -1,0 +1,7 @@
+term tf
+untreat 1
+outbreak 4
+asia 1
+etc 1
+accid 1
+coupl 1

@@ -1,0 +1,10 @@
+term tf
+exchang 3
+owner 1
+coupl 4
+boy 1
+fals 1
+ambush 1
+dress 1
+worth 2
+earlier 1

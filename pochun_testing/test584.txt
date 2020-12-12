@@ -1,0 +1,9 @@
+term tf
+wake 2
+rous 2
+feet 1
+fashion 1
+etc 2
+restor 1
+dubiou 1
+nullifi 2

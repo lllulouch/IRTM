@@ -1,0 +1,6 @@
+term tf
+twice 1
+brand 1
+heartbeat 3
+refil 3
+trap 1

@@ -1,0 +1,4 @@
+term tf
+dedic 1
+proport 1
+cool 1

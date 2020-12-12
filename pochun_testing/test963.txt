@@ -1,0 +1,9 @@
+term tf
+feet 1
+scientif 1
+ocean 1
+nativ 1
+poor 1
+wake 1
+georgia 2
+png 2

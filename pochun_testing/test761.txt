@@ -1,0 +1,7 @@
+term tf
+usabl 1
+depress 1
+enforc 1
+mute 1
+motion 1
+underway 1

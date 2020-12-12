@@ -1,0 +1,11 @@
+term tf
+demand 5
+feet 1
+cascad 1
+circl 1
+somewher 1
+brave 1
+gun 1
+absenc 1
+temporari 1
+replenish 1

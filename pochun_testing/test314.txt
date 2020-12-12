@@ -1,0 +1,13 @@
+term tf
+amnestic 1
+caviti 2
+webcrawl 1
+sarah 4
+boy 3
+reput 1
+counter 1
+owner 1
+laugh 1
+grown 1
+concept 1
+pregnanc 1

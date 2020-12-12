@@ -1,0 +1,13 @@
+term tf
+fenc 2
+twice 1
+road 1
+gun 1
+instantan 2
+confin 2
+absenc 1
+west 1
+injur 1
+temporari 1
+enforc 1
+restrain 1

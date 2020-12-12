@@ -1,0 +1,7 @@
+term tf
+print 2
+agenc 1
+rem 2
+unaffect 1
+poor 1
+besid 1

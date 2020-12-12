@@ -1,0 +1,7 @@
+term tf
+derelict 1
+dress 2
+prohibit 1
+reappear 1
+phone 2
+korea 2

@@ -1,0 +1,15 @@
+term tf
+livestock 2
+enforc 1
+obedi 1
+raid 2
+harri 1
+loud 1
+screech 1
+doubl 1
+mm 1
+agoni 1
+chant 1
+feet 1
+owner 1
+senat 1

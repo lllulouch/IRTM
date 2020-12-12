@@ -1,0 +1,9 @@
+term tf
+phase 5
+brown 1
+trait 2
+behav 1
+countri 4
+temporari 1
+nativ 2
+intervent 1

@@ -1,0 +1,4 @@
+term tf
+caucasian 1
+campaign 1
+trap 1

@@ -1,0 +1,6 @@
+term tf
+doubl 5
+graffiti 1
+motion 1
+behav 1
+underway 1

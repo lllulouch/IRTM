@@ -1,0 +1,11 @@
+term tf
+exchang 2
+east 1
+earlier 1
+poor 1
+fals 1
+welcom 1
+poi 1
+boy 2
+soul 2
+outta 1

@@ -1,0 +1,6 @@
+term tf
+enclosur 4
+burrow 1
+untreat 1
+mandibl 1
+anti 1

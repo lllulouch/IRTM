@@ -1,0 +1,8 @@
+term tf
+aberr 1
+guis 1
+televis 1
+incorpor 1
+reappear 1
+charact 1
+png 2

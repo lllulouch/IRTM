@@ -1,0 +1,5 @@
+term tf
+road 4
+phone 1
+caught 1
+strike 1

@@ -1,0 +1,11 @@
+term tf
+png 1
+archeolog 2
+canadian 1
+journal 5
+livestock 2
+compound 1
+reappear 1
+restor 1
+mine 2
+revis 1

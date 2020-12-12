@@ -1,0 +1,4 @@
+term tf
+amnestic 1
+brand 3
+digest 1

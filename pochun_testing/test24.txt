@@ -1,0 +1,13 @@
+term tf
+countri 1
+harri 3
+son 4
+bacteri 2
+sir 1
+join 1
+coupl 2
+forev 1
+grown 1
+choic 1
+spoken 1
+worth 1

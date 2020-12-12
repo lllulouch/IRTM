@@ -1,0 +1,5 @@
+term tf
+statur 1
+centimet 1
+enclosur 2
+wondertain 1

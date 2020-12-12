@@ -1,0 +1,7 @@
+term tf
+automaton 1
+ornat 1
+replic 1
+wondertain 2
+raid 1
+behav 1

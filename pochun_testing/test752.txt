@@ -1,0 +1,5 @@
+term tf
+brand 2
+cascad 1
+coupl 1
+interrupt 2

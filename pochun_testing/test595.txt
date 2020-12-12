@@ -1,0 +1,12 @@
+term tf
+gun 2
+restrain 1
+caught 1
+accid 1
+trait 3
+boy 5
+dress 1
+son 2
+ourselv 1
+soak 1
+dog 4

@@ -1,0 +1,3 @@
+term tf
+gamma 1
+dog 1

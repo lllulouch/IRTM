@@ -1,0 +1,8 @@
+term tf
+wake 1
+charm 1
+mm 1
+press 2
+coupl 2
+worth 1
+join 1

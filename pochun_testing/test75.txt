@@ -1,0 +1,13 @@
+term tf
+guis 1
+welcom 1
+poor 1
+prep 1
+scissor 3
+anesthesia 1
+sam 1
+wake 1
+boy 4
+forget 1
+coupl 1
+son 1

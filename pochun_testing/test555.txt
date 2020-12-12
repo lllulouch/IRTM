@@ -1,0 +1,7 @@
+term tf
+fenc 1
+accomplish 1
+loud 1
+trait 1
+hypothes 1
+deton 1

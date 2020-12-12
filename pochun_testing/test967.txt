@@ -1,0 +1,8 @@
+term tf
+prohibit 1
+dedic 1
+centimet 1
+automat 1
+vision 1
+joint 1
+fragment 1

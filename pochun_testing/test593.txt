@@ -1,0 +1,16 @@
+term tf
+absorb 3
+polar 2
+len 16
+stabil 1
+plate 4
+vision 3
+prohibit 1
+discret 1
+imaginari 1
+phase 1
+temporari 1
+journal 3
+fals 1
+irrepar 1
+physicist 1

@@ -1,0 +1,15 @@
+term tf
+feet 1
+biomass 4
+heartbeat 3
+prolong 1
+ambulatori 1
+catatonia 1
+earlier 1
+vision 1
+recogniz 1
+etc 1
+join 1
+fashion 1
+temporari 1
+tran 1

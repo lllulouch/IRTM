@@ -1,0 +1,11 @@
+term tf
+launcher 1
+violenc 2
+restor 1
+sick 1
+wild 1
+behav 1
+somewher 1
+cool 3
+upkeep 1
+brave 1

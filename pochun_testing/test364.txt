@@ -1,0 +1,4 @@
+term tf
+journal 2
+planet 1
+cool 1

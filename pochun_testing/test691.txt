@@ -1,0 +1,11 @@
+term tf
+stabil 1
+caught 1
+cost 2
+hypothes 1
+dress 1
+motion 1
+chest 1
+fashion 1
+discret 1
+ourselv 1

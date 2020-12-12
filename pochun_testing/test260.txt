@@ -1,0 +1,11 @@
+term tf
+owner 7
+besid 1
+welcom 1
+west 2
+upsid 1
+outbreak 1
+violenc 1
+crew 1
+ahead 1
+spi 1

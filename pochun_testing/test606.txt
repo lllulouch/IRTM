@@ -1,0 +1,6 @@
+term tf
+webcrawl 1
+automat 1
+tonn 1
+grown 1
+elbow 1

@@ -1,0 +1,6 @@
+term tf
+etc 1
+vision 2
+reappear 1
+earlier 1
+temporarili 1

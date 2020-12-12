@@ -1,0 +1,4 @@
+term tf
+concept 2
+databas 1
+restor 1

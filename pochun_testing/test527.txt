@@ -1,0 +1,8 @@
+term tf
+doubl 1
+bio 1
+fragment 1
+absorb 1
+satur 1
+centimet 1
+sector 1
