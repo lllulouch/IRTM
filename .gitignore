@@ -25,3 +25,5 @@ data
 
 # tmp
 pochun_testing/
+test/dictionary.txt
+test/binary_vector
