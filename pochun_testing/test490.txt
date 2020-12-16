@@ -1,6 +1,0 @@
-term tf
-plate 1
-absorb 1
-caucasian 1
-supplementari 1
-asphyxi 1

@@ -1,4 +1,0 @@
-term tf
-ornat 1
-temporari 1
-exchang 1

@@ -1,8 +1,0 @@
-term tf
-cascad 1
-trap 1
-absenc 1
-raid 1
-mc 2
-exclus 1
-demand 1

@@ -1,8 +1,0 @@
-term tf
-redesign 1
-hive 1
-temporari 1
-lantern 1
-disabl 1
-overload 1
-concept 1

@@ -1,7 +1,0 @@
-term tf
-castl 1
-join 1
-launch 1
-restrain 2
-trait 1
-interrupt 1

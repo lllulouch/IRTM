@@ -1,8 +1,0 @@
-term tf
-behav 1
-topolog 1
-phase 1
-incorpor 1
-rhythmic 1
-footstep 1
-feet 1

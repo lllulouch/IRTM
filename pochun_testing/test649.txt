@@ -1,8 +1,0 @@
-term tf
-cloud 1
-dog 1
-mute 1
-unsettl 1
-raid 2
-spoken 1
-twice 1

@@ -1,7 +1,0 @@
-term tf
-critic 1
-thaumic 1
-refil 1
-conceal 1
-henri 2
-attic 1

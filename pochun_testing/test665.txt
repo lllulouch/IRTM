@@ -1,7 +1,0 @@
-term tf
-monthli 1
-induct 2
-demand 1
-circl 3
-trait 1
-doubl 1

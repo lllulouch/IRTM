@@ -1,5 +1,0 @@
-term tf
-absorb 1
-satur 1
-wondertain 1
-print 2

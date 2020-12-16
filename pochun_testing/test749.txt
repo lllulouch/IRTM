@@ -1,4 +1,0 @@
-term tf
-shell 1
-owner 1
-sarah 2

@@ -1,5 +1,0 @@
-term tf
-brand 1
-shell 1
-scorch 1
-notifi 1

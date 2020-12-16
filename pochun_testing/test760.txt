@@ -1,7 +1,0 @@
-term tf
-pine 3
-coupl 1
-certainli 1
-mine 2
-dog 1
-png 1

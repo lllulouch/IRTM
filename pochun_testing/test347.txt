@@ -1,8 +1,0 @@
-term tf
-confin 1
-scientif 1
-proport 1
-forev 1
-planet 1
-ahead 1
-cost 1

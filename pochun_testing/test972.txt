@@ -1,7 +1,0 @@
-term tf
-auction 1
-absorb 1
-basin 1
-obliter 1
-planet 1
-societi 1

@@ -1,8 +1,0 @@
-term tf
-planet 6
-conceal 1
-tran 1
-disband 1
-crew 1
-leak 1
-hypothes 1

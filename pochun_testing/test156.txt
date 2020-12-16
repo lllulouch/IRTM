@@ -1,9 +1,0 @@
-term tf
-cloud 1
-underway 1
-behav 1
-attract 1
-enclosur 1
-poor 1
-digest 1
-evapor 1

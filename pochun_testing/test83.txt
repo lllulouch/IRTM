@@ -1,9 +1,0 @@
-term tf
-fenc 1
-monthli 1
-bio 2
-owner 1
-doubl 1
-trait 1
-evenli 1
-shell 1

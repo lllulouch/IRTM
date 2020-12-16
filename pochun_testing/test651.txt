@@ -1,5 +1,0 @@
-term tf
-diamond 1
-brand 1
-indoor 1
-laugh 1

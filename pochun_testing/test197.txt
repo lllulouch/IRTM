@@ -1,6 +1,0 @@
-term tf
-holder 4
-nativ 1
-reappear 2
-owner 10
-forget 2

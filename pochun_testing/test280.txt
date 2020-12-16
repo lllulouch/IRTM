@@ -1,3 +1,0 @@
-term tf
-incorpor 1
-revis 1

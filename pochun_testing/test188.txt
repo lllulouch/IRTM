@@ -1,5 +1,0 @@
-term tf
-nativ 1
-indoor 1
-bio 1
-motion 1

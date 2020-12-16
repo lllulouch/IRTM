@@ -1,4 +1,0 @@
-term tf
-televis 1
-mid 1
-contest 8

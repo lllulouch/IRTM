@@ -1,5 +1,0 @@
-term tf
-hypothes 1
-recogniz 1
-elimin 1
-prolong 1

@@ -1,4 +1,0 @@
-term tf
-owner 1
-besid 1
-trap 1

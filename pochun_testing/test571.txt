@@ -1,5 +1,0 @@
-term tf
-centimet 3
-shell 2
-absorb 5
-incorpor 1

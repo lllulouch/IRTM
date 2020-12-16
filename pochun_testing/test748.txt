@@ -1,7 +1,0 @@
-term tf
-amnestic 1
-absenc 1
-mystic 1
-buri 1
-mound 1
-cool 1

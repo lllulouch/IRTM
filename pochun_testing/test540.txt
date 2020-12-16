@@ -1,6 +1,0 @@
-term tf
-nativ 1
-mid 1
-grown 1
-sole 1
-diamond 1

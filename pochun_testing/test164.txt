@@ -1,9 +1,0 @@
-term tf
-disrupt 1
-televis 3
-crew 1
-forget 1
-charact 7
-disabl 1
-strike 1
-absenc 1

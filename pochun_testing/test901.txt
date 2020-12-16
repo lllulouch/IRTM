@@ -1,3 +1,0 @@
-term tf
-charact 1
-raid 1

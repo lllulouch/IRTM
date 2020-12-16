@@ -1,5 +1,0 @@
-term tf
-screech 1
-asphyxi 1
-redesign 1
-revis 1

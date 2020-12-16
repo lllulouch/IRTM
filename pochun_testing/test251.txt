@@ -1,6 +1,0 @@
-term tf
-prohibit 1
-scientif 2
-replic 1
-phase 1
-injur 1

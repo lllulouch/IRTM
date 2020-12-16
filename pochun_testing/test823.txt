@@ -1,8 +1,0 @@
-term tf
-guis 1
-notifi 1
-forbidden 1
-demolit 1
-owner 3
-temporarili 1
-grown 1

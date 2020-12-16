@@ -1,3 +1,0 @@
-term tf
-plate 1
-ran 3

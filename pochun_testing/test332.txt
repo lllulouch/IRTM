@@ -1,5 +1,0 @@
-term tf
-livestock 3
-enclosur 2
-evenli 1
-motion 1

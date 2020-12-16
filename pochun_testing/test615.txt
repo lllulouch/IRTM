@@ -1,6 +1,0 @@
-term tf
-mandibl 1
-len 2
-motion 1
-sick 1
-temporarili 1

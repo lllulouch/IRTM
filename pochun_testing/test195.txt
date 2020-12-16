@@ -1,7 +1,0 @@
-term tf
-acoust 1
-hmcl 1
-ornat 1
-enclosur 1
-transient 1
-pulsat 1

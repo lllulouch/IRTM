@@ -1,5 +1,0 @@
-term tf
-preclud 1
-dent 1
-caucasian 1
-demolit 1

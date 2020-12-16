@@ -1,7 +1,0 @@
-term tf
-cloud 3
-webcrawl 1
-ahead 1
-west 1
-besid 1
-print 1

@@ -1,3 +1,0 @@
-term tf
-goggl 2
-restor 1

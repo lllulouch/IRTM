@@ -1,8 +1,0 @@
-term tf
-sick 1
-proport 1
-earlier 1
-phase 1
-etc 1
-compound 1
-decay 1

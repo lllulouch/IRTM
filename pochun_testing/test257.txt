@@ -1,4 +1,0 @@
-term tf
-feet 1
-satur 1
-replic 1

@@ -1,5 +1,0 @@
-term tf
-notifi 1
-fashion 1
-reappear 1
-disrupt 1

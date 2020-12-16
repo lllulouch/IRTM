@@ -1,5 +1,0 @@
-term tf
-violenc 1
-exchang 2
-laugh 4
-sick 1

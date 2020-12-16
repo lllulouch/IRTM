@@ -1,6 +1,0 @@
-term tf
-crew 1
-hypothes 1
-join 1
-launch 2
-gun 1

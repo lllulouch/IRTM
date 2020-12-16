@@ -1,8 +1,0 @@
-term tf
-elimin 1
-attract 1
-freshli 1
-launch 1
-enclosur 1
-centimet 1
-donor 1

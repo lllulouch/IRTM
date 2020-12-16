@@ -1,6 +1,0 @@
-term tf
-vision 3
-mortem 1
-restor 2
-evapor 2
-absorb 1

@@ -1,6 +1,0 @@
-term tf
-reinstat 1
-brand 1
-print 2
-absenc 1
-revis 1

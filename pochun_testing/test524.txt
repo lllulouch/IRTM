@@ -1,9 +1,0 @@
-term tf
-kia 1
-absenc 2
-evapor 1
-mortem 1
-soak 1
-elbow 1
-brand 1
-crew 2

@@ -1,5 +1,0 @@
-term tf
-hypothes 1
-tran 2
-anti 1
-trap 1

@@ -1,7 +1,0 @@
-term tf
-trap 1
-databas 2
-somewher 1
-wake 1
-deton 1
-cool 1

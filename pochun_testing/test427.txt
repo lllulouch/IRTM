@@ -1,3 +1,0 @@
-term tf
-crew 1
-erod 1

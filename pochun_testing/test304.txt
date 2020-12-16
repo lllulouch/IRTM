@@ -1,7 +1,0 @@
-term tf
-owner 1
-join 1
-strike 1
-dog 1
-restrain 1
-stabil 1

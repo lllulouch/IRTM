@@ -1,5 +1,0 @@
-term tf
-sector 1
-restrain 1
-automaton 1
-centimet 3

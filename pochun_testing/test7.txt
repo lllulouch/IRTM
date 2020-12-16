@@ -1,7 +1,0 @@
-term tf
-underway 1
-pa 1
-laugh 1
-plate 1
-join 1
-planet 1

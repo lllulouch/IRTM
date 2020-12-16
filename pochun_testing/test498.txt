@@ -1,4 +1,0 @@
-term tf
-sensit 1
-withdrawn 1
-cool 1

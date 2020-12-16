@@ -1,8 +1,0 @@
-term tf
-discret 1
-owner 1
-phase 2
-notifi 1
-apprehens 1
-dog 1
-countri 1

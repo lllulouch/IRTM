@@ -1,4 +1,0 @@
-term tf
-exchang 1
-reappear 1
-par 1

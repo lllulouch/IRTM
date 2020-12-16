@@ -1,4 +1,0 @@
-term tf
-unaffect 2
-uninterrupt 2
-behav 1

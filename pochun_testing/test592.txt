@@ -1,3 +1,0 @@
-term tf
-prohibit 1
-forget 1

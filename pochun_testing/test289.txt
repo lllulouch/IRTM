@@ -1,6 +1,0 @@
-term tf
-hypothes 1
-bitten 1
-buri 1
-sir 2
-admit 1

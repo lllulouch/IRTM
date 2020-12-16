@@ -1,6 +1,0 @@
-term tf
-monthli 1
-opt 1
-chest 3
-phone 1
-print 1

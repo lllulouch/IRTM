@@ -1,9 +1,0 @@
-term tf
-webcrawl 1
-amnestic 2
-prohibit 1
-attract 1
-doubl 3
-hue 1
-maker 1
-agoni 1

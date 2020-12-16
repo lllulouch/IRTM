@@ -1,8 +1,0 @@
-term tf
-fenc 1
-pregnanc 3
-sensit 1
-polar 1
-sector 1
-counter 1
-concept 1

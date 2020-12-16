@@ -1,7 +1,0 @@
-term tf
-crew 3
-nativ 1
-mid 1
-circl 1
-mine 2
-west 1

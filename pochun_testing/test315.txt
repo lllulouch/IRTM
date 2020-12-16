@@ -1,4 +1,0 @@
-term tf
-databas 1
-elimin 1
-strike 1

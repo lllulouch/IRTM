@@ -1,6 +1,0 @@
-term tf
-phone 2
-spice 2
-televis 1
-sick 1
-plate 1

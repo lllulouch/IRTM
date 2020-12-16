@@ -1,7 +1,0 @@
-term tf
-motion 1
-caucasian 1
-replic 1
-livestock 1
-agenc 1
-countri 1

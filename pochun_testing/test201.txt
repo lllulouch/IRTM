@@ -1,6 +1,0 @@
-term tf
-sector 1
-brown 1
-joint 1
-absorb 1
-widen 1

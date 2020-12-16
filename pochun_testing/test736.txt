@@ -1,2 +1,0 @@
-term tf
-hypothes 1

@@ -1,6 +1,0 @@
-term tf
-interrupt 1
-caught 1
-doubl 1
-ahead 1
-sentiment 1

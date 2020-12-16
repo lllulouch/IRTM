@@ -1,5 +1,0 @@
-term tf
-demand 1
-laugh 2
-forev 1
-injur 1

@@ -1,6 +1,0 @@
-term tf
-wild 1
-charact 1
-replic 5
-west 1
-option 1

@@ -1,9 +1,0 @@
-term tf
-caucasian 1
-deton 1
-ocean 2
-squadron 1
-smartphon 1
-absenc 1
-launch 1
-somewher 1

@@ -1,7 +1,0 @@
-term tf
-exclus 2
-evenli 1
-brand 1
-son 3
-launch 1
-poi 1

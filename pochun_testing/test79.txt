@@ -1,8 +1,0 @@
-term tf
-usb 2
-brand 1
-spoken 1
-sam 2
-owner 2
-option 1
-download 1

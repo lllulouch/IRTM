@@ -1,6 +1,0 @@
-term tf
-forbidden 1
-proport 1
-dress 1
-attract 1
-worth 1

@@ -1,4 +1,0 @@
-term tf
-metropolitan 1
-etc 1
-dress 2

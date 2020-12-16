@@ -1,7 +1,0 @@
-term tf
-fl 1
-press 1
-feet 1
-option 1
-scaveng 1
-laugh 1

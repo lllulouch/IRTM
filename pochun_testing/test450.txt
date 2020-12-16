@@ -1,8 +1,0 @@
-term tf
-underway 1
-campaign 1
-bacteri 1
-digest 2
-slurri 1
-burrow 1
-unaffect 1

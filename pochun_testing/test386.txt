@@ -1,9 +1,0 @@
-term tf
-bio 1
-injur 1
-hypothes 1
-vision 1
-loud 1
-launch 2
-shell 1
-hue 1

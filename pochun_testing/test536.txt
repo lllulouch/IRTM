@@ -1,5 +1,0 @@
-term tf
-doubl 2
-diamond 1
-elbow 1
-injur 1

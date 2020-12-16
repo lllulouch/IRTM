@@ -1,5 +1,0 @@
-term tf
-dedic 1
-restor 1
-son 1
-dent 1

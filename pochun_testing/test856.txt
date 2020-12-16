@@ -1,4 +1,0 @@
-term tf
-unfeas 1
-brand 1
-depress 1

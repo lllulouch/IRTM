@@ -1,8 +1,0 @@
-term tf
-twice 1
-refil 2
-replenish 1
-peac 1
-rem 1
-underway 1
-wake 1

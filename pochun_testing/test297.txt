@@ -1,7 +1,0 @@
-term tf
-prohibit 1
-press 1
-databas 2
-download 5
-charact 1
-leak 1

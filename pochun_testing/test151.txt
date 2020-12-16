@@ -1,4 +1,0 @@
-term tf
-fenc 1
-disrupt 1
-sole 1

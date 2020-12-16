@@ -1,8 +1,0 @@
-term tf
-prohibit 1
-fenc 1
-sick 3
-canadian 1
-journal 1
-improperli 1
-brown 1

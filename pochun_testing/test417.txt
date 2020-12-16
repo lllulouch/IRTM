@@ -1,4 +1,0 @@
-term tf
-buri 1
-dress 1
-scholar 1

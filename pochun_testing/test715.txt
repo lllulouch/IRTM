@@ -1,6 +1,0 @@
-term tf
-accid 1
-brown 2
-dog 2
-iri 1
-nativ 2

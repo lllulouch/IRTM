@@ -1,3 +1,0 @@
-term tf
-enclosur 1
-forbidden 1

@@ -1,7 +1,0 @@
-term tf
-replic 6
-disrupt 1
-deton 4
-nu 1
-webcrawl 2
-indecipher 1

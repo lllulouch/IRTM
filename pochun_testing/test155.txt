@@ -1,3 +1,0 @@
-term tf
-temporarili 1
-concept 1

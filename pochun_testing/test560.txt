@@ -1,5 +1,0 @@
-term tf
-twice 1
-press 1
-televis 1
-centimet 1

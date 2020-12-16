@@ -1,9 +1,0 @@
-term tf
-memo 1
-exclus 1
-discret 1
-monthli 2
-ahead 1
-undesir 1
-stabil 3
-societ 1

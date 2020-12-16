@@ -1,3 +1,0 @@
-term tf
-fragment 1
-outta 1

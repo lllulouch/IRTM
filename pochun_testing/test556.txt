@@ -1,4 +1,0 @@
-term tf
-mute 1
-grove 1
-journal 1

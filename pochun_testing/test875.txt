@@ -1,4 +1,0 @@
-term tf
-doubl 1
-plate 1
-vision 1

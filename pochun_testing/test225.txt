@@ -1,5 +1,0 @@
-term tf
-brown 1
-plate 1
-chill 1
-paralysi 1

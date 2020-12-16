@@ -1,7 +1,0 @@
-term tf
-cost 1
-option 1
-metropolitan 1
-brand 1
-garb 1
-caviti 2

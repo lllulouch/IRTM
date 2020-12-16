@@ -1,9 +1,0 @@
-term tf
-joint 3
-thigh 1
-feet 1
-elbow 1
-compound 1
-scissor 1
-raid 1
-auction 1

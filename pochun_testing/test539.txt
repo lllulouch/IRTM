@@ -1,9 +1,0 @@
-term tf
-waterproof 1
-centimet 2
-restor 1
-fragment 1
-monthli 4
-demand 1
-feet 1
-martial 1

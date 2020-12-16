@@ -1,4 +1,0 @@
-term tf
-coupl 1
-absorb 1
-poor 1

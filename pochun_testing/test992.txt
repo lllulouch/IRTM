@@ -1,5 +1,0 @@
-term tf
-amnestic 1
-pine 1
-road 1
-motion 1

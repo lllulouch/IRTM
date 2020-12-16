@@ -1,9 +1,0 @@
-term tf
-print 2
-phone 3
-brand 1
-tax 1
-instantan 1
-wolv 1
-dog 1
-doubl 1

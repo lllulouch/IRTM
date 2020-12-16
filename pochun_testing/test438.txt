@@ -1,8 +1,0 @@
-term tf
-motion 1
-korea 1
-tonn 1
-livestock 1
-east 1
-countri 2
-leader 1

@@ -1,9 +1,0 @@
-term tf
-reappear 1
-len 6
-worth 1
-coupl 1
-option 1
-dedic 1
-etc 1
-png 1

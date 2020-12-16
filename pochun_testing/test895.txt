@@ -1,3 +1,0 @@
-term tf
-webcrawl 1
-coupl 3

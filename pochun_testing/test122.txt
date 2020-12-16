@@ -1,4 +1,0 @@
-term tf
-extran 1
-motion 1
-behav 1

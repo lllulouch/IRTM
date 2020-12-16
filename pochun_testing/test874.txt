@@ -1,7 +1,0 @@
-term tf
-dedic 1
-poi 8
-violenc 1
-apprehens 1
-korea 4
-indoor 1

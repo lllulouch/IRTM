@@ -1,5 +1,0 @@
-term tf
-joint 1
-forbidden 1
-tumbl 1
-injur 1

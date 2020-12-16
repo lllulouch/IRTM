@@ -1,8 +1,0 @@
-term tf
-virul 1
-breast 3
-sensit 1
-confin 1
-chest 1
-demand 1
-temporari 1

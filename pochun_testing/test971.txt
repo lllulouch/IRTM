@@ -1,9 +1,0 @@
-term tf
-poi 2
-journal 4
-doubl 1
-twice 1
-road 1
-ahead 1
-amnestic 1
-absenc 1

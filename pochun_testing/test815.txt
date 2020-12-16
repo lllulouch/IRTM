@@ -1,5 +1,0 @@
-term tf
-charact 1
-option 1
-mainstream 1
-databas 1

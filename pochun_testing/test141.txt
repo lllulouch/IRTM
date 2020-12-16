@@ -1,7 +1,0 @@
-term tf
-replic 1
-topolog 3
-fashion 1
-enclosur 2
-accomplish 1
-unsettl 1

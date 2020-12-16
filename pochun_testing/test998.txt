@@ -1,8 +1,0 @@
-term tf
-inward 1
-replenish 1
-eyelid 1
-admit 1
-chest 2
-belli 1
-bitten 1

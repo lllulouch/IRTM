@@ -1,8 +1,0 @@
-term tf
-crew 1
-bitten 9
-centimet 3
-violenc 1
-sector 3
-trap 1
-restor 1

@@ -1,9 +1,0 @@
-term tf
-bio 1
-outbreak 1
-proport 1
-compound 1
-injur 1
-raid 1
-fashion 1
-restrain 1

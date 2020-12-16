@@ -1,3 +1,0 @@
-term tf
-road 1
-violenc 1

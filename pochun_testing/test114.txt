@@ -1,7 +1,0 @@
-term tf
-doubl 1
-sole 2
-bacteri 1
-elimin 1
-joint 1
-raid 1

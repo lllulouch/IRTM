@@ -1,4 +1,0 @@
-term tf
-unaffect 1
-prolong 1
-conceal 1

@@ -1,7 +1,0 @@
-term tf
-sector 1
-anti 1
-virul 1
-injur 1
-violenc 1
-temporarili 1

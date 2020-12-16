@@ -1,8 +1,0 @@
-term tf
-bio 2
-len 2
-interrupt 1
-decay 1
-mid 1
-theatr 1
-laugh 1

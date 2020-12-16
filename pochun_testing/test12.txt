@@ -1,3 +1,0 @@
-term tf
-trait 1
-elimin 1

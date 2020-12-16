@@ -1,2 +1,0 @@
-term tf
-launch 1

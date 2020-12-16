@@ -1,5 +1,0 @@
-term tf
-proport 3
-prolong 3
-depress 1
-unaffect 1

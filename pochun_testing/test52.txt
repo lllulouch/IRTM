@@ -1,8 +1,0 @@
-term tf
-phase 8
-confin 1
-virul 1
-worth 1
-mill 2
-coupl 1
-therapist 1

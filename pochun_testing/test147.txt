@@ -1,8 +1,0 @@
-term tf
-besid 1
-caucasian 1
-forget 2
-wondertain 2
-brand 1
-press 2
-loud 1

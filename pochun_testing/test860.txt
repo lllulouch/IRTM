@@ -1,9 +1,0 @@
-term tf
-brand 1
-besid 1
-cognit 2
-disabl 1
-loud 2
-vocabulari 1
-phase 1
-unaffect 1

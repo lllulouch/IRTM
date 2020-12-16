@@ -1,6 +1,0 @@
-term tf
-guis 1
-mine 1
-loud 1
-chill 2
-acoust 3

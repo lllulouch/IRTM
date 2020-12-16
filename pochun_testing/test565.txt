@@ -1,3 +1,0 @@
-term tf
-amnestic 1
-ocean 1

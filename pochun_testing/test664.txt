@@ -1,5 +1,0 @@
-term tf
-agenc 3
-worth 1
-memo 1
-cool 1

@@ -1,7 +1,0 @@
-term tf
-diagnosi 1
-print 1
-nativ 1
-accid 1
-spoken 1
-concept 1

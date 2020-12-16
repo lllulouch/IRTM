@@ -1,4 +1,0 @@
-term tf
-mandibl 1
-caviti 1
-prolong 1

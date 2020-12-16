@@ -1,9 +1,0 @@
-term tf
-owner 2
-absorb 5
-centimet 1
-rem 1
-join 1
-decay 1
-incorpor 3
-digest 3

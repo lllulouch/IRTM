@@ -1,3 +1,0 @@
-term tf
-dog 3
-primal 1

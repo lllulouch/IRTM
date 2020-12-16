@@ -1,5 +1,0 @@
-term tf
-abstain 1
-accomplish 1
-absorb 1
-incorpor 1

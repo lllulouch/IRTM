@@ -1,7 +1,0 @@
-term tf
-disrupt 1
-restrain 1
-injur 1
-ostens 1
-violenc 1
-elimin 1

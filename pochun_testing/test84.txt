@@ -1,3 +1,0 @@
-term tf
-chest 1
-intervent 1

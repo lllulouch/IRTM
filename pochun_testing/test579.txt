@@ -1,8 +1,0 @@
-term tf
-sector 1
-nativ 1
-enclosur 1
-absorb 1
-joint 2
-prolong 1
-upkeep 1

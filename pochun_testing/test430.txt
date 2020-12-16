@@ -1,3 +1,0 @@
-term tf
-planet 4
-unaffect 1

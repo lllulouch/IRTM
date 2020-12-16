@@ -1,7 +1,0 @@
-term tf
-tonn 1
-asteroid 2
-planet 4
-centimet 2
-ocean 1
-underway 1

@@ -1,4 +1,0 @@
-term tf
-east 1
-databas 1
-ocean 1

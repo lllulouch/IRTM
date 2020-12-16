@@ -1,4 +1,0 @@
-term tf
-exclus 1
-rem 1
-unaffect 1

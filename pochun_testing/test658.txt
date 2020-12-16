@@ -1,8 +1,0 @@
-term tf
-caucasian 1
-fashion 1
-texa 1
-guis 1
-laugh 1
-certainli 1
-confin 1

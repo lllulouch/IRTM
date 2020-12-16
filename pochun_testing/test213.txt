@@ -1,6 +1,0 @@
-term tf
-absorb 2
-sole 1
-systemat 1
-digest 1
-feet 1

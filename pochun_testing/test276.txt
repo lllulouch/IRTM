@@ -1,5 +1,0 @@
-term tf
-trap 1
-massacr 1
-doubl 1
-confin 1

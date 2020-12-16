@@ -1,9 +1,0 @@
-term tf
-hive 1
-somewher 1
-barren 1
-mine 1
-coupl 1
-ahead 1
-poetri 1
-disengag 1

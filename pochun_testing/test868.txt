@@ -1,5 +1,0 @@
-term tf
-print 2
-attract 1
-feet 1
-worth 1

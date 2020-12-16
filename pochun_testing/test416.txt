@@ -1,3 +1,0 @@
-term tf
-rem 1
-disrupt 1

@@ -1,9 +1,0 @@
-term tf
-critic 1
-restrain 4
-cognit 1
-motion 1
-elimin 1
-elbow 1
-interrupt 1
-poor 1

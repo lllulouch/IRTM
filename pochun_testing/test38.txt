@@ -1,5 +1,0 @@
-term tf
-mute 2
-improp 1
-west 1
-east 1

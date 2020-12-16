@@ -1,5 +1,0 @@
-term tf
-caucasian 1
-behav 1
-loud 1
-worth 1

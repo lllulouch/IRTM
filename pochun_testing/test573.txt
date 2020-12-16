@@ -1,7 +1,0 @@
-term tf
-monthli 1
-dress 2
-sir 2
-forget 1
-ran 1
-laugh 1

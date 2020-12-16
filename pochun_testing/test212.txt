@@ -1,8 +1,0 @@
-term tf
-fenc 1
-admit 1
-etc 1
-caucasian 1
-grown 1
-disrupt 1
-welcom 1

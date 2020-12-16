@@ -1,8 +1,0 @@
-term tf
-preclud 1
-temporarili 1
-salvag 1
-accid 2
-tax 1
-earlier 1
-fashion 1

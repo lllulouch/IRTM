@@ -1,6 +1,0 @@
-term tf
-recogniz 1
-phase 1
-instantan 1
-spoken 1
-charact 1

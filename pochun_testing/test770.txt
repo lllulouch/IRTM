@@ -1,4 +1,0 @@
-term tf
-databas 1
-ambulatori 1
-systemat 1

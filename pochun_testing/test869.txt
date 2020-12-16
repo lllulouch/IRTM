@@ -1,5 +1,0 @@
-term tf
-compound 1
-mill 1
-webcrawl 1
-entangl 1

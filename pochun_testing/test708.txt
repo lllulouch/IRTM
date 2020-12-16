@@ -1,6 +1,0 @@
-term tf
-sector 2
-televis 1
-caught 1
-aberr 1
-induct 1

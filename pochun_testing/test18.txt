@@ -1,8 +1,0 @@
-term tf
-temporarili 1
-injur 3
-restrain 1
-accid 1
-caviti 2
-hmcl 2
-raid 1

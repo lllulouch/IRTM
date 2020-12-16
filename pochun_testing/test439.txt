@@ -1,7 +1,0 @@
-term tf
-multicolor 1
-digest 1
-dress 1
-ornat 1
-societi 1
-exchang 1

@@ -1,4 +1,0 @@
-term tf
-notifi 1
-brand 1
-fashion 1

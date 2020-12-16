@@ -1,7 +1,0 @@
-term tf
-print 1
-raid 1
-cassett 1
-outbreak 3
-televis 1
-continent 1

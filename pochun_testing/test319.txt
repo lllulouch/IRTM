@@ -1,5 +1,0 @@
-term tf
-artwork 6
-temporari 1
-michigan 1
-evenli 1

@@ -1,6 +1,0 @@
-term tf
-reappear 1
-poi 4
-societi 1
-sector 1
-multivers 1

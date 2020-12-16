@@ -1,6 +1,0 @@
-term tf
-untouch 1
-interrupt 1
-unarm 1
-footstep 1
-improperli 1

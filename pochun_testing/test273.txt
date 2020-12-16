@@ -1,4 +1,0 @@
-term tf
-tech 1
-doubt 1
-incorpor 1

@@ -1,6 +1,0 @@
-term tf
-plate 1
-hemispher 1
-wild 1
-unaffect 1
-somewher 1

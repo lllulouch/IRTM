@@ -1,6 +1,0 @@
-term tf
-coupl 1
-sole 1
-cost 1
-senat 1
-canadian 1

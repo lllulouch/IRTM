@@ -1,4 +1,0 @@
-term tf
-thigh 1
-nostril 1
-pregnanc 1

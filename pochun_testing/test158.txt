@@ -1,9 +1,0 @@
-term tf
-raid 1
-circl 1
-unsettl 1
-doubt 1
-etc 1
-disabl 1
-choic 1
-temporari 1

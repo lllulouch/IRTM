@@ -1,3 +1,0 @@
-term tf
-replic 1
-extran 1

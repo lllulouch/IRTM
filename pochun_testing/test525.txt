@@ -1,6 +1,0 @@
-term tf
-instantan 1
-evapor 2
-absorb 1
-print 1
-replic 1

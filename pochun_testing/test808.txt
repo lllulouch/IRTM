@@ -1,7 +1,0 @@
-term tf
-caviti 1
-brand 1
-poi 3
-webcrawl 1
-incorpor 1
-demand 1

@@ -1,5 +1,0 @@
-term tf
-temporari 1
-enclosur 1
-owner 1
-dog 1

@@ -1,7 +1,0 @@
-term tf
-twice 2
-accomplish 1
-proport 1
-phase 3
-reappear 1
-planet 1

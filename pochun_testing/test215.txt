@@ -1,6 +1,0 @@
-term tf
-shell 1
-plate 1
-kia 1
-incorpor 1
-entangl 1

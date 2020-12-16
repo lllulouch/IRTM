@@ -1,6 +1,0 @@
-term tf
-exclus 2
-gamma 2
-ocean 4
-obliter 1
-worth 1

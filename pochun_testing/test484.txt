@@ -1,9 +1,0 @@
-term tf
-incorpor 1
-shell 2
-behav 1
-raid 1
-option 1
-mc 1
-twice 1
-accid 1

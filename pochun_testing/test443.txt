@@ -1,4 +1,0 @@
-term tf
-trait 1
-etc 1
-fashion 1

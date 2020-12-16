@@ -1,5 +1,0 @@
-term tf
-print 1
-counter 1
-restor 1
-centimet 1

@@ -1,8 +1,0 @@
-term tf
-exchang 3
-restrain 2
-caught 1
-nativ 1
-owner 1
-demand 3
-exclus 1

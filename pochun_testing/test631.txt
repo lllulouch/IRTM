@@ -1,3 +1,0 @@
-term tf
-depress 1
-disrupt 1

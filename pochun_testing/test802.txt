@@ -1,6 +1,0 @@
-term tf
-prohibit 1
-unaffect 1
-underway 1
-print 1
-instantan 1

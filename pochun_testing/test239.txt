@@ -1,8 +1,0 @@
-term tf
-sector 1
-digest 1
-elimin 1
-fashion 1
-outbreak 1
-epidem 2
-confin 1

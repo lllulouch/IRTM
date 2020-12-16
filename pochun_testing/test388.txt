@@ -1,3 +1,0 @@
-term tf
-strike 2
-sir 4

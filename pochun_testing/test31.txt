@@ -1,4 +1,0 @@
-term tf
-televis 2
-sensit 1
-download 1

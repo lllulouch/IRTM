@@ -1,6 +1,0 @@
-term tf
-twice 1
-dog 1
-hue 1
-proport 1
-wither 1

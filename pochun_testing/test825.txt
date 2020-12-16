@@ -1,8 +1,0 @@
-term tf
-gamma 1
-aberr 1
-sensit 1
-graffiti 1
-road 1
-garb 1
-loud 1

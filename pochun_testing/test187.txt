@@ -1,6 +1,0 @@
-term tf
-confin 2
-revis 1
-injur 1
-wake 1
-hypothes 1

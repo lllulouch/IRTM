@@ -1,8 +1,0 @@
-term tf
-monthli 1
-phone 2
-reappear 3
-reenter 1
-behav 1
-owner 4
-guis 1

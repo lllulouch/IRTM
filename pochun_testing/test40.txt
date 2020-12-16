@@ -1,3 +1,0 @@
-term tf
-notifi 1
-theolog 1

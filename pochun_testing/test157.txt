@@ -1,8 +1,0 @@
-term tf
-caucasian 1
-dress 1
-inoper 1
-undesir 1
-option 1
-keyword 1
-certainli 1

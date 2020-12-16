@@ -1,7 +1,0 @@
-term tf
-screech 1
-decibel 1
-slumber 2
-wake 2
-fals 1
-buri 1

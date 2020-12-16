@@ -1,5 +1,0 @@
-term tf
-wondertain 2
-bitten 1
-trait 1
-fashion 1

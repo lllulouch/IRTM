@@ -1,2 +1,0 @@
-term tf
-absenc 1

@@ -1,3 +1,0 @@
-term tf
-phone 3
-exchang 1

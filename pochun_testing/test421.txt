@@ -1,5 +1,0 @@
-term tf
-forbidden 1
-unaffect 1
-caviti 1
-refil 1

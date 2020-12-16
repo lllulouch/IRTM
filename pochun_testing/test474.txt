@@ -1,7 +1,0 @@
-term tf
-enclosur 2
-temporarili 1
-bitten 1
-cool 1
-fragment 1
-underway 1

@@ -1,9 +1,0 @@
-term tf
-restrain 1
-joint 1
-texa 1
-enforc 1
-son 1
-gun 1
-undesir 1
-revis 1

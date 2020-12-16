@@ -1,3 +1,0 @@
-term tf
-cortex 1
-somewher 1

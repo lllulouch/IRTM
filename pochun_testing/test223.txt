@@ -1,7 +1,0 @@
-term tf
-brown 1
-circl 1
-caught 1
-prohibit 1
-launch 1
-feet 1

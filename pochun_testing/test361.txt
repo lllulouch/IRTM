@@ -1,9 +1,0 @@
-term tf
-asphyxi 1
-charact 2
-print 1
-intervent 1
-barren 1
-sick 1
-scroll 1
-road 2

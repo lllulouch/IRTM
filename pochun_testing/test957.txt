@@ -1,4 +1,0 @@
-term tf
-certif 1
-georgia 3
-owner 1

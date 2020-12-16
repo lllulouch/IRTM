@@ -1,4 +1,0 @@
-term tf
-enforc 2
-charact 4
-cost 1

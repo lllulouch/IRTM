@@ -1,3 +1,0 @@
-term tf
-alphabet 1
-dog 2

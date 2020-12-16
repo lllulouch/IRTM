@@ -1,7 +1,0 @@
-term tf
-buri 1
-vision 1
-launch 1
-tonn 1
-brand 1
-temporarili 1

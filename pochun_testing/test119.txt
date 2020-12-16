@@ -1,7 +1,0 @@
-term tf
-enforc 1
-biped 1
-mine 2
-road 1
-rambl 1
-passion 1

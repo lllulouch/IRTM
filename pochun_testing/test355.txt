@@ -1,2 +1,0 @@
-term tf
-poor 1

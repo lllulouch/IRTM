@@ -1,6 +1,0 @@
-term tf
-ornat 1
-slightest 1
-admit 1
-loud 1
-deton 1

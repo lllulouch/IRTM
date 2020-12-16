@@ -1,2 +1,0 @@
-term tf
-automat 1

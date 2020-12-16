@@ -1,6 +1,0 @@
-term tf
-guis 1
-crew 1
-wake 1
-scribbl 1
-trap 1

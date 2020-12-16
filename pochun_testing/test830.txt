@@ -1,7 +1,0 @@
-term tf
-restor 1
-owner 1
-poi 7
-therebi 1
-demolit 1
-feet 1

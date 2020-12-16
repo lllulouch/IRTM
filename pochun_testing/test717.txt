@@ -1,4 +1,0 @@
-term tf
-revis 1
-proport 1
-hue 1

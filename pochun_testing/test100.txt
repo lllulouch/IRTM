@@ -1,8 +1,0 @@
-term tf
-notifi 1
-dress 1
-asphyxi 1
-ladder 1
-entangl 1
-apprehens 1
-disrupt 1

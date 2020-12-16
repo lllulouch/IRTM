@@ -1,4 +1,0 @@
-term tf
-ornat 1
-disrupt 2
-sir 1

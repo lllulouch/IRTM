@@ -1,3 +1,0 @@
-term tf
-prohibit 2
-cost 1

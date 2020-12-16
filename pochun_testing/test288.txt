@@ -1,7 +1,0 @@
-term tf
-enclosur 2
-restrain 1
-wild 1
-compound 1
-cortex 2
-incorpor 1

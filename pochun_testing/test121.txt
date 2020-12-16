@@ -1,8 +1,0 @@
-term tf
-bio 2
-hypothes 3
-vision 1
-interrupt 1
-trait 1
-asia 1
-wild 1

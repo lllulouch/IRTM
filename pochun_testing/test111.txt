@@ -1,6 +1,0 @@
-term tf
-wild 2
-sensit 1
-rem 1
-prolong 1
-countri 1

@@ -1,5 +1,0 @@
-term tf
-elimin 1
-scientif 1
-irrat 2
-compound 1

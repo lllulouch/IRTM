@@ -1,4 +1,0 @@
-term tf
-cost 1
-massacr 1
-interrupt 1

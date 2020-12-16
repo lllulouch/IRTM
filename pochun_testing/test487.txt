@@ -1,5 +1,0 @@
-term tf
-fenc 1
-nativ 1
-digest 1
-underway 1

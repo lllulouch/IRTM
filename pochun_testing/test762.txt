@@ -1,8 +1,0 @@
-term tf
-anti 1
-decay 1
-trap 1
-poi 3
-auction 1
-indoor 1
-doubt 1

@@ -1,3 +1,0 @@
-term tf
-decay 1
-injur 2

@@ -1,7 +1,0 @@
-term tf
-detector 1
-bio 1
-son 1
-owner 1
-cool 1
-leak 1

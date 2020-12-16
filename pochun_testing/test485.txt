@@ -1,4 +1,0 @@
-term tf
-sector 1
-grove 1
-automat 1

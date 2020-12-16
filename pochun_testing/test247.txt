@@ -1,5 +1,0 @@
-term tf
-road 12
-phase 6
-pave 1
-retrograd 1

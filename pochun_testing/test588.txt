@@ -1,4 +1,0 @@
-term tf
-doubl 1
-sequenti 1
-asphyxi 1

@@ -1,8 +1,0 @@
-term tf
-notifi 1
-critic 2
-underway 1
-brand 1
-accomplish 1
-phone 1
-wake 1

@@ -1,8 +1,0 @@
-term tf
-televis 2
-enforc 3
-press 2
-coupl 1
-poi 2
-sole 1
-mill 1

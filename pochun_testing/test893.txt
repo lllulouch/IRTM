@@ -1,5 +1,0 @@
-term tf
-hmcl 1
-brand 1
-automat 1
-trait 1

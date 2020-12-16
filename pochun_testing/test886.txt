@@ -1,7 +1,0 @@
-term tf
-exclus 1
-dedic 1
-slurri 1
-motion 1
-mainstream 1
-fragment 1

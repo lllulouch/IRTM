@@ -1,3 +1,0 @@
-term tf
-automaton 1
-gun 4

@@ -1,3 +1,0 @@
-term tf
-databas 1
-asteroid 2

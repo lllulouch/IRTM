@@ -1,7 +1,0 @@
-term tf
-attract 1
-planet 1
-brand 1
-centimet 1
-launch 1
-restrain 1

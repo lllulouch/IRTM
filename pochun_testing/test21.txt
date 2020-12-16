@@ -1,8 +1,0 @@
-term tf
-incorpor 1
-bio 2
-trait 1
-buri 1
-feet 2
-ornat 1
-west 1

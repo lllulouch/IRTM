@@ -1,9 +1,0 @@
-term tf
-wondertain 1
-fashion 1
-boy 7
-brave 1
-soul 1
-sir 1
-cool 3
-attract 3

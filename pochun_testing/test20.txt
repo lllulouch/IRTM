@@ -1,4 +1,0 @@
-term tf
-bio 1
-wake 1
-png 5

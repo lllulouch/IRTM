@@ -1,7 +1,0 @@
-term tf
-sector 1
-prohibit 1
-decay 3
-georgia 1
-son 1
-underway 1

@@ -1,3 +1,0 @@
-term tf
-derelict 1
-grown 1

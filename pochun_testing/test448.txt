@@ -1,3 +1,0 @@
-term tf
-east 1
-crew 2

@@ -1,4 +1,0 @@
-term tf
-centimet 1
-pregnanc 1
-vocabulari 1

@@ -1,9 +1,0 @@
-term tf
-amnestic 1
-enclosur 1
-compound 1
-conceal 1
-cassett 1
-poi 6
-texa 2
-owner 1

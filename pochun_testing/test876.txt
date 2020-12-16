@@ -1,3 +1,0 @@
-term tf
-digest 3
-reappear 1

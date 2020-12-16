@@ -1,9 +1,0 @@
-term tf
-son 3
-instantan 1
-incurs 1
-phone 1
-conceal 1
-prolong 1
-rehabilit 1
-reinstat 1

@@ -1,8 +1,0 @@
-term tf
-discret 1
-poetri 2
-livestock 1
-fals 1
-doubl 1
-soak 1
-png 1

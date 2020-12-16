@@ -1,8 +1,0 @@
-term tf
-fenc 1
-road 1
-enforc 1
-forbidden 1
-boredom 1
-counter 1
-ran 2

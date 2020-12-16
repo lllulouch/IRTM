@@ -1,5 +1,0 @@
-term tf
-decay 1
-restrain 2
-bitten 2
-caucasian 1

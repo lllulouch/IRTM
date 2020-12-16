@@ -1,8 +1,0 @@
-term tf
-obedi 1
-gamma 1
-extran 2
-unfeas 1
-planet 1
-uiu 1
-exclus 1

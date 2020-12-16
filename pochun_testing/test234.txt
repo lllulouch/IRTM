@@ -1,8 +1,0 @@
-term tf
-biped 1
-bio 1
-exclus 1
-road 2
-print 1
-paw 1
-countri 1

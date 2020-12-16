@@ -1,9 +1,0 @@
-term tf
-twice 1
-recogniz 1
-enforc 1
-chest 1
-ran 1
-violenc 1
-besid 1
-heartbeat 1

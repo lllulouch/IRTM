@@ -1,3 +1,0 @@
-term tf
-darken 1
-salvag 1

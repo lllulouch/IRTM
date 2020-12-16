@@ -1,7 +1,0 @@
-term tf
-compound 2
-ornat 1
-refil 1
-replenish 2
-hypothes 1
-cloud 2

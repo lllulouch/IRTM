@@ -1,5 +1,0 @@
-term tf
-bio 1
-joint 1
-evenli 1
-digest 1

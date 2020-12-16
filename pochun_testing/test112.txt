@@ -1,4 +1,0 @@
-term tf
-brand 2
-satur 1
-indoor 1

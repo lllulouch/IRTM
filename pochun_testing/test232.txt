@@ -1,4 +1,0 @@
-term tf
-centimet 1
-interrupt 2
-therebi 1

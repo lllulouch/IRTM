@@ -1,5 +1,0 @@
-term tf
-restrain 1
-caucasian 1
-prolong 1
-unsettl 1

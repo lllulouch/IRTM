@@ -1,3 +1,0 @@
-term tf
-restor 1
-revis 1

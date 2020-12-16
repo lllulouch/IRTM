@@ -1,9 +1,0 @@
-term tf
-hive 3
-wild 1
-centimet 1
-analogu 1
-digest 1
-temporarili 1
-behav 2
-necrosi 1

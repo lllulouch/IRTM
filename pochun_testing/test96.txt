@@ -1,7 +1,0 @@
-term tf
-mc 2
-squadron 1
-crew 3
-print 1
-recogniz 1
-absenc 1

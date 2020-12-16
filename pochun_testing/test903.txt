@@ -1,7 +1,0 @@
-term tf
-discret 1
-mushroom 4
-raid 1
-laugh 1
-belli 1
-soul 1

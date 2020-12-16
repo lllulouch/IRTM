@@ -1,7 +1,0 @@
-term tf
-discret 1
-mid 1
-restrain 4
-strike 1
-unarm 1
-feet 1
