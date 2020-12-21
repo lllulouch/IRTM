@@ -188,10 +188,10 @@ class Classifier(object):
     X_tmp = np.zeros((len(dataset), len(self.dictionary)))
     for i, (id, x, y) in enumerate(dataset):
         X[i, np.isin(self.dictionary, x[:,0])] = x[np.isin(x[:,0], self.dictionary), 1]
-    Y_tmp = np.argmax((X @ self.log_P_tc) + self.log_P_c, axis=1)
+    Y_tmp = np.argmax((X @ self.log_P_tc) + self.log_P_c, axis=1)+1
     Y = np.zeros((len(dataset), self.class_size))
     for i, y in enumerate(Y_tmp):
-        Y[i, int(y)] = 1
+        Y[i, int(y-1)] = 1
     mat = X.T @ Y + .1
     log_P_c = np.log((np.sum(Y,axis=0)+1) / (Y.shape[0]+Y.shape[1]))
     log_P_tc = np.log(mat / np.sum(mat,axis=0))
