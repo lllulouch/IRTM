@@ -1,5 +1,6 @@
 # pa1
 from nltk.stem import PorterStemmer
+import re
 # from nltk.corpus import stopwords
 class Config(object):
   target_file = '28.txt'
@@ -15,7 +16,7 @@ class Config(object):
     '. ', ', ', ' ,', ' \'\'', '\'\' ', ' "', '" ', '?', '!', ';', '\n', '\t', '(', ')', '~', ':', '`',
     '(', ')', '[', ']', '{', '}', '*', '/', '#', '@',
     # '1','2','3','4','5','6','7','8','9','0'
-    '<', '>', '=', '█', '∞', '&', '+', '°', '▒', '░', '…', '\\', '^', '”', '’', '’', '—', '®', '™', '‘', 'º', '▒҉͝', '■', '¤', '◘', '╬', '“'
+    '<', '>', '=', '∞', '&', '+', '°', '▒', '░', '…', '\\', '^', '”', '’', '’', '—', '®', '™', '‘', 'º', '▒҉͝', '■', '¤', '◘', '╬', '“'
   ]
   ignore_list = [
     ',', '$', '%',
@@ -58,7 +59,7 @@ def tokenize(text):
     sep = Config.seperator[0]
     for s in Config.seperator[1:]:
       text = text.replace(s, sep)
-    return [ignore(t) for t in text.split(sep) if not has_number(t) and ignore(t)]
+    return ['█' if '█' in t else ignore(t) for t in text.split(sep) if not has_number(t) and ignore(t)]
     # return [ignore(t) for t in text.split(sep) if ignore(t)]
   return [text] if text else []
 
@@ -79,7 +80,8 @@ stopwords = list(map(ps.stem, stopwords))
 
 def remove_stopword(token):
 #   return [ignore_2(w) for w in token if ignore_2(w) and ignore_2(w) not in stops]
-  return [ignore_2(w) for w in token if ignore_2(w) and ignore_2(w) not in stopwords]
+  regex =  re.compile('[^a-zA-Z]')
+  return [ignore_2(regex.sub('', w)) for w in token if ignore_2(regex.sub('', w)) and ignore_2(regex.sub('', w)) not in stopwords]
 
 def save_to_file(token):
   with open(Config.result_file, 'w') as file:

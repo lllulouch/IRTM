@@ -16,7 +16,7 @@ class Config(object):
   output_file = f'{datetime.now().strftime("%Y%m%dT%H%M")}_max_seg_chi2_train.csv'
   set_size = 5739
   max_feature_size = 500
-  class_size = 5
+  class_size = 3
   feedback_round = 2
   p1=1
   p2=1
