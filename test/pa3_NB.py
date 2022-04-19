@@ -17,7 +17,7 @@ class Config(object):
   set_size = 5739
   max_feature_size = 500
   class_size = 3
-  feedback_round = 2
+  feedback_round = 0
   p1=1
   p2=1
 
@@ -104,9 +104,9 @@ def random_selection(terms, size=Config.max_feature_size, seed=None, only_id=Tru
     return random.choices(terms, k=size)
 def max_chi2(terms, dataset, size=Config.max_feature_size, only_id=True):
   f = freq(terms, dataset)
-  N = np.sum(f)
+  N = len(dataset)
   t = np.sum(f, axis=1).reshape(-1,1)
-  c = np.sum(f, axis=0).reshape(1,-1)
+  c = np.unique(dataset.y, return_counts=True)[1]
   t1c1 = f
   t1c0 = t-f
   t0c1 = c-f
@@ -121,9 +121,9 @@ def max_chi2(terms, dataset, size=Config.max_feature_size, only_id=True):
     return list(terms[selected])
 def max_seg_chi2(terms, dataset, limit=None, size=Config.max_feature_size, seed=None, only_id=True):
   f = freq(terms, dataset)
-  N = np.sum(f)
+  N = len(dataset)
   t = np.sum(f, axis=1).reshape(-1,1)
-  c = np.sum(f, axis=0).reshape(1,-1)
+  c = np.unique(dataset.y, return_counts=True)[1]
   t1c1 = f
   t1c0 = t-f
   t0c1 = c-f
@@ -169,7 +169,7 @@ class Classifier(object):
     X = np.zeros((len(dataset), len(self.dictionary)))
     Y = np.zeros((len(dataset), self.class_size))
     for i, (id, x, y) in enumerate(dataset):
-        # X[i, np.isin(self.dictionary, x[:,0])] = x[np.isin(x[:,0], self.dictionary), 1]
+#         X[i, np.isin(self.dictionary, x[:,0])] = x[np.isin(x[:,0], self.dictionary), 1]
         X[i, np.isin(self.dictionary, x[:,0])] = 1
         Y[i, int(y-1)] = 1
     self.mat = X.T @ Y + .1
@@ -178,7 +178,8 @@ class Classifier(object):
   def predict(self, dataset):
     X = np.zeros((len(dataset), len(self.dictionary)))
     for i, (id, x, y) in enumerate(dataset):
-        X[i, np.isin(self.dictionary, x[:,0])] = x[np.isin(x[:,0], self.dictionary), 1]
+#         X[i, np.isin(self.dictionary, x[:,0])] = x[np.isin(x[:,0], self.dictionary), 1]
+        X[i, np.isin(self.dictionary, x[:,0])] = 1
     Y = np.argmax((X @ self.log_P_tc) + self.log_P_c, axis=1)+1
     return np.concatenate((dataset.inds.reshape(-1,1),Y.reshape(-1,1)), axis=1)
   def predict_(self, dataset, feedback_round=0, p1=1, p2=1):
@@ -187,7 +188,8 @@ class Classifier(object):
     X = np.zeros((len(dataset), len(self.dictionary)))
     X_tmp = np.zeros((len(dataset), len(self.dictionary)))
     for i, (id, x, y) in enumerate(dataset):
-        X[i, np.isin(self.dictionary, x[:,0])] = x[np.isin(x[:,0], self.dictionary), 1]
+#         X[i, np.isin(self.dictionary, x[:,0])] = x[np.isin(x[:,0], self.dictionary), 1]
+        X[i, np.isin(self.dictionary, x[:,0])] = 1
     Y_tmp = np.argmax((X @ self.log_P_tc) + self.log_P_c, axis=1)+1
     Y = np.zeros((len(dataset), self.class_size))
     for i, y in enumerate(Y_tmp):
@@ -219,7 +221,7 @@ def F1(pred, y, smooth=True):
     macro_p += p
     macro_r += r
     micro_tp += tp
-    micro_tp += fp
+    micro_fp += fp
     micro_fn += fn
   macro_p /= Config.class_size
   macro_r /= Config.class_size
